@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-070" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-070</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-070</isebel:purl>
+  <dc:title>[70] Mit Peitsche und Knüppel</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">De Kutscher is ok so mißhannelt worden von Fru von Viereck, ⸢he⸣ is so vääl slagen, oever ⸢dat⸣ is se alleen wäst. He het spraken, so wohr, as de Hasselbusch gröön würd (⸢de⸣ is ganz verdröögt wäst), so wohr hadd se (Frau von Viereck) unrecht. De is wedder utgröönt.
+
+Erzähler: Altmann Abs, Tessin, Kreis Rostock; aus Ridsenow, Kreis Güstrow; Aufzeichner: Wossidlo, 27. 3. 1910.</isebel:content>
+    <isebel:content xml:lang="deu">Der Kutscher ist auch so mißhandelt worden von Frau von Viereck, er ist so viel geschlagen worden, aber das ist sie allein gewesen. Er hat gesprochen, so wahr der Haselstrauch grünen würde (der ist ganz vertrocknet gewesen), so wahr habe sie (Frau von Viereck) unrecht. Der ist wieder ausgeschlagen.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100002802">
+      <dc:title>Tessin</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">54.02629</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.46834</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+    <isebel:place id="100002424">
+      <dc:title>Rossewitz Hof</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.87190</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.30750</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110007942">
+      <isebel:name>Abs</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+      <isebel:profession>Tagelöhner</isebel:profession>
+    </isebel:person>
+    <isebel:person id="110010358">
+      <isebel:name>? Viereck, von, Frau</isebel:name>
+      <isebel:role>actor</isebel:role>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:events>
+    <isebel:event id="990011019">
+      <isebel:date>1910-03-27</isebel:date>
+      <isebel:role>narration</isebel:role>
+    </isebel:event>
+  </isebel:events>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-001-053" type="controlled vocabulary" provenance="WossiDiA-Index">Edelleute</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-606" type="controlled vocabulary" provenance="WossiDiA-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-791" type="controlled vocabulary" provenance="WossiDiA-Index">schlagen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-336" type="controlled vocabulary" provenance="WossiDiA-Index">Unrecht</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-450" type="controlled vocabulary" provenance="WossiDiA-Index">Kutscher</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-547" type="controlled vocabulary" provenance="WossiDiA-Index">grün</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-554" type="controlled vocabulary" provenance="WossiDiA-Index">grünen</isebel:keyword>
+    <isebel:keyword xml:lang="nds" id="XMD-M030-000-013-486" type="controlled vocabulary" provenance="WossiDiA-Index">drög</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-038-232" type="controlled vocabulary" provenance="WossiDiA-Index">misshandeln</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-041-138" type="controlled vocabulary" provenance="WossiDiA-Index">Haselnussstrauch</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B609-001-034-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab5941/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B609-001-034-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab5940/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

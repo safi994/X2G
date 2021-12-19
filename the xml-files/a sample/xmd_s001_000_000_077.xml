@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-077" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-077</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-077</isebel:purl>
+  <dc:title>[77] Mit Peitsche und Knüppel</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">⸢En⸣ Fru hett ʼn Mäten na ʼn Acker schickt, ⸢se⸣ sall ʼne good lang Quääk halen. Se (de Diern) het ehren Acker so rein maakt, dor sünd keen Quäken in wäst. Oever se will de Fru nich vertüürnen un geiht na ʼn Naber sienen Acker un bringt ʼne Quääk. Ut Neiwarigkeit, dat se ehr trotzen wull, het de Fru se binah doot slahn.
+
+Erzähler: Bauer Voss, Warsow, Kreis Malchin; Aufzeichner: Wossidlo, 10. 3. 1911.</isebel:content>
+    <isebel:content xml:lang="deu">Eine Frau hat ihr Dienstmädchen auf den Acker geschickt, sie soll eine recht lange Quecke holen. Das Mädchen hat ihren Acker (aber) so sauber gemacht, daß keine Quecken mehr dagewesen sind. Aber sie will die Frau nicht erzürnen und geht zum Acker des Nachbarn und bringt eine Quecke. Aus Nichtswürdigkeit, weil sie ihr trotzen wollte, hat die Frau sie beinahe totgeschlagen.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100003009">
+      <dc:title>Warsow</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.53154</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.30225</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110008871">
+      <isebel:name>Voss</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:events>
+    <isebel:event id="990011389">
+      <isebel:date>1911-03-10</isebel:date>
+      <isebel:role>narration</isebel:role>
+    </isebel:event>
+  </isebel:events>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-001-053" type="controlled vocabulary" provenance="WossiDiA-Index">Edelleute</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-606" type="controlled vocabulary" provenance="WossiDiA-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-151" type="controlled vocabulary" provenance="WossiDiA-Index">Tod</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-791" type="controlled vocabulary" provenance="WossiDiA-Index">schlagen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-792" type="controlled vocabulary" provenance="WossiDiA-Index">Nachbar</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-341" type="controlled vocabulary" provenance="WossiDiA-Index">Acker</isebel:keyword>
+    <isebel:keyword xml:lang="nds" id="XMD-M030-000-002-413" type="controlled vocabulary" provenance="WossiDiA-Index">Dirn</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-003-342" type="controlled vocabulary" provenance="WossiDiA-Index">beinahe</isebel:keyword>
+    <isebel:keyword xml:lang="nds" id="XMD-M030-000-008-624" type="controlled vocabulary" provenance="WossiDiA-Index">Quäk</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-047-448" type="controlled vocabulary" provenance="WossiDiA-Index">Frau</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B609-001-029-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab5939/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B609-001-029-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab593a/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

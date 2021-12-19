@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-049" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-049</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-049</isebel:purl>
+  <dc:title>[49] Unschuldig gerichtet</dc:title>
+  <dc:title xml:lang="deu"/>
+  <dc:title xml:lang="eng"/>
+  <dc:title xml:lang="nds">Grossmutter aus Brodhagen.</dc:title>
+  <isebel:contents>
+    <isebel:content xml:lang="deu">Meine Großmutter aus Brodhagen hat erzählt: Eine Frau ist zu Unrecht hingerichtet worden. Sie hat den Herrgott gebeten, er solle einen Baum auf ihrem Grabe wachsen lassen. Da ist eine Linde mitten auf dem Grabe gewachsen. Ein Vogel muß das übertragen haben, Vögel übertragen ja Saat. Dem hat unser Herrgott das wohl so eingegeben.</isebel:content>
+    <isebel:content xml:lang="eng">My grandmother from Brodhagen told me: A woman had been executed innocently. She had been biding God to let a tree grow on her grave. Therefore, a lime tree grew in the middle of the grave. A bird must have conveyed it, because birds convey seeds. God might have und instructed it.</isebel:content>
+    <isebel:content xml:lang="nds">min grm.&lt;ref>grossmudder.&lt;/ref> ut Brodhagen: 
+En fru is up unrecht henrichtt.... de het hg.&lt;ref>herrgott.&lt;/ref> beden, he süll 'n bom up ehr graww wassen laten ........ is ne linn up wossen mirrn up dat graff. (de vagel möt dat öwerdragen hebben, de vagel verdreggt jo saat) den het uns herrgott dat wol so ingeben.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100010096">
+      <dc:title>Nienhagen</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">54.15822</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.95361</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110005436">
+      <isebel:name>Rewoldt</isebel:name>
+      <isebel:gender>female</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-776" type="controlled vocabulary" provenance="WossiDiA-Index">Taube</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-077" type="controlled vocabulary" provenance="WossiDiA-Index">Baum</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-083" type="controlled vocabulary" provenance="WossiDiA-Index">Vogel</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-637" type="controlled vocabulary" provenance="WossiDiA-Index">Grab</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-332" type="controlled vocabulary" provenance="WossiDiA-Index">Linde</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-958" type="controlled vocabulary" provenance="WossiDiA-Index">Herrgott</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-009-030" type="controlled vocabulary" provenance="WossiDiA-Index">Saat</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-011-092" type="controlled vocabulary" provenance="WossiDiA-Index">wachsen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-033-914" type="controlled vocabulary" provenance="WossiDiA-Index">hinrichten</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-047-448" type="controlled vocabulary" provenance="WossiDiA-Index">Frau</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Unschuldig: Taube, Torgelow etc.</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Inculpable: pidgeon, Torgelow etc.</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B608-017-059-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56dc/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B608-017-059-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56db/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-090" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-090</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-090</isebel:purl>
+  <dc:title>[90] Todesstrafe für kleine Dienstvergehen</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">En Scheperknecht in Rehbarg het ʼn Biel stahlen ⸢un⸣ het ⸢dorför⸣ anʼn Galgen hungen. ⸢He⸣ het sien Mudder bäden, se sall mal rankamen, he wull ehr noch ʼn Kuß gäben. De het dat nich daan. Dor het he seggt: „Dat ʼs dien Glück, süss hadd ik dien Uhr (de Nääs: Frau Lampe) wegbäten. Du büst dor schüllig an, dat ik hier hängen do!“
+
+Erzähler: Frau X, Rottmannshagen, Kreis Malchin; Aufzeichner: Wossidlo.</isebel:content>
+    <isebel:content xml:lang="deu">Ein Schäferknecht in Rehberg hat ein Beil gestohlen und hat dafür am Galgen gehangen. Er hat seine Mutter gebeten, sie solle einmal herkommen, er wolle ihr noch einen Kuß geben. Die hat das aber nicht getan. Da hat er gesagt: „Das ist dein Glück, sonst hätte ich Dir das Ohr (die Nase: Frau Lampe) abgebissen. Du bist daran schuld, daß ich hier hänge!“</isebel:content>
+  </isebel:contents>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-832" type="controlled vocabulary" provenance="WossiDiA-Index">Toter</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-065" type="controlled vocabulary" provenance="WossiDiA-Index">Galgen</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B901" type="controlled vocabulary" provenance="RW-Index">Tote</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B901" type="controlled vocabulary" provenance="RW-Index">dead</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B901-006" type="controlled vocabulary" provenance="RW-Index">Galgen</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B901-006" type="controlled vocabulary" provenance="RW-Index">Gallows</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B901-006-003-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac0615/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-006" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-006</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-006</isebel:purl>
+  <dc:title>[6] Gutsbesitzer muss zur Bestrafung mit den Schweinen aus Trog essen</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">En Gootsbesitzer in de Grevismoehler Gegend, ik will em nich naamkünnig maken, is ok so häßlich wäst gegen sien Lüüd, ⸢he⸣ het ehr nix to läben günnt, nich mal sattäten hebben se sik künnt. De is naher wedderkamen na sienen Dood. ⸢He⸣ het up ʼe Knee vörʼn Swienstrogg lägen un mit de Swien ut ʼn Trogg fräten.
+
+Erzähler: Inspektor Dettmann, 76 J., Schwaan, Kreis Bützow; Aufzeichner: Wossidlo, 31. 8. 1930.</isebel:content>
+    <isebel:content xml:lang="deu">Ein Gutsbesitzer in der Grevesmühlener Gegend, ich will ihn nicht mit Namen nennen, ist auch so häßlich gegen seine Leute gewesen, er hat ihnen nichts zum Leben gegönnt, nicht einmal sattessen haben sie sich können. Der ist dann nach seinem Tode wiedergekommen. Er hat auf den Knien vor dem Schweinetrog gelegen und mit den Schweinen aus dem Trog gefressen.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100000922">
+      <dc:title>Grevesmühlen</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.86487</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.18473</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110001368">
+      <isebel:name>Dettmann</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+      <isebel:profession>Inspektor</isebel:profession>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:events>
+    <isebel:event id="990010497">
+      <isebel:date>1930-08-31</isebel:date>
+      <isebel:role>narration</isebel:role>
+    </isebel:event>
+  </isebel:events>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-001-053" type="controlled vocabulary" provenance="WossiDiA-Index">Edelleute</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-606" type="controlled vocabulary" provenance="WossiDiA-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-765" type="controlled vocabulary" provenance="WossiDiA-Index">Schwein</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-851" type="controlled vocabulary" provenance="WossiDiA-Index">essen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-037" type="controlled vocabulary" provenance="WossiDiA-Index">Knie</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-977" type="controlled vocabulary" provenance="WossiDiA-Index">Leute</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-449" type="controlled vocabulary" provenance="WossiDiA-Index">fressen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-474" type="controlled vocabulary" provenance="WossiDiA-Index">Trog</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-582" type="controlled vocabulary" provenance="WossiDiA-Index">Leben</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-048-709" type="controlled vocabulary" provenance="WossiDiA-Index">hässlich, gemein</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B609-001-014-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab5924/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B609-001-014-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab5923/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

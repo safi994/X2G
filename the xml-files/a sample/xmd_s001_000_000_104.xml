@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-104" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-104</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-104</isebel:purl>
+  <dc:title>[104] Strafe für den Leichenfledderer</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">⸢En⸣ oll Fru ⸢is de⸣ Mann storben. ⸢Se⸣ het nix to Beierdigung. ⸢Donn het se de⸣ Koh verköft ⸢un dat⸣ Geld dennʼ Mann unnern Kopp leggt. Se köft ⸢noch⸣ Inkledung ⸢in de Stadt, de⸣ Diern ⸢blift⸣ to Huus. ⸢Donn kümmt de⸣ Herr ⸢un fröggt⸣, wo ⸢dat⸣ Geld ⸢is. De⸣ Herr is ʼn Rabengeist ⸢wäst. He⸣ will ⸢dat Geld⸣ ruthalen ⸢för sich⸣. De Dood grippt ⸢donn⸣ to. As he naʼt Beinhuus bröcht ward, mööt de Herr jo mit. Annern Dag sall de Hand afnahmen Warden. As de Dokter binah de Hand af het, dor grippt de Dood to un kriggt em bi de Schullern faatt. So het he dor sien Ennʼ bi nahmen.
+
+Erzähler: Frau Lange, Waren, Kreis Waren; Aufzeichner: Wossidlo.</isebel:content>
+    <isebel:content xml:lang="deu">Einer alten Frau ist der Mann gestorben. Sie hat nichts für die Beerdigung. Da hat sie die Kuh verkauft und das Geld dem Mann unter den Kopf gelegt. Sie kauft noch Totenkleidung in der Stadt, die Tochter bleibt zu Hause. Da kommt der Herr und fragt, wo das Geld ist. Der Herr ist ein richtiger Leichenvogel gewesen. Er will das Geld für sich herausholen. Da greift der Tote zu. Als er in die Totenhalle gebracht wird, muß der Herr ja mit. Am nächsten Tag soll die Hand abgenommen werden. Als der Doktor die Hand beinahe ab hat, greift der Tote zu und kriegt ihn bei den Schultern zu fassen. So hat er dabei sein Ende genommen.</isebel:content>
+  </isebel:contents>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-782" type="controlled vocabulary" provenance="WossiDiA-Index">Edelmann</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-832" type="controlled vocabulary" provenance="WossiDiA-Index">Toter</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-198" type="controlled vocabulary" provenance="WossiDiA-Index">Geld</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B819" type="controlled vocabulary" provenance="RW-Index">Tote</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B819" type="controlled vocabulary" provenance="RW-Index">dead</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B819-013" type="controlled vocabulary" provenance="RW-Index">Edelmann, Toter, Geld</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B819-013" type="controlled vocabulary" provenance="RW-Index">Nobleman, dead, money</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B819-013-003-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac0371/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B819-013-003-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac0370/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

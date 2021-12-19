@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-109" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-109</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-109</isebel:purl>
+  <dc:title>[109] Die Hexe melkt durch die Wand</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <dc:title xml:lang="eng"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">Dei Hex melkt dörch de Wand. &lt;br/>
+Dor is mal eins ‘ne Buerfru west, dei hett ümmer mihr Melk un Botter hadd, as ehr Nawersch. Und dat is dorvan kamen, dat sei ‘ne Hex west is. As sei nu eins nah Fell gan will, seggt sei tau ehr Dochter, sei süll sick an’t Botterfatt setten un bottern un denn ümmertau seggen: „Ut jeden Hus en Lepel vull.“ Dat ded dei Diern ok, sei harr aewerst de Würt verkiehrt verstan un sä dümmer: Ut jeden Hus en Schepel vull. Dunn würr dat soväl Botter, dat sei baben ut dat Botterfatt steeg. Dunn kregt dei Dien dat mit de Angst un füng an tau schriegen. Dunn kem de Nawersch und at Göör säd ehr, dat dat dorher kem, dat ehr Mudder ümmer dorch de Wand melken ded.
+Kuhhirte Schmidt Poischendorf bei Glasin erzählte mir diese Geschichte &lt;br/>
+Richard Brauer, Sekretär, Heiligendamm, Altersheim</isebel:content>
+    <isebel:content xml:lang="deu">Die Hexe melkt durch die Wand
+Da ist einmal eine Bauersfrau gewesen, die immer mehr Milch und Butter hatte als ihre Nachbarn. Und das ist davon gekommen, dass sie eine Hexe gewesen ist. Als sie nun einmal zum Feld gehen will, sagt sie zu ihrer Tochter, sie soll sich an das Butterfass setzen und buttern und immerzu sagen: „Aus jedem Haus einen Löffel voll.“ Das tut das Mädchen auch, sie hat aber die Worte verkehrt verstanden und sagt immer: Aus jedem Haus einen Scheffel voll. Dann war das so viel Butter, dass sie oben aus dem Butterfass steigt. Dann kriegt das Mädchen es mit der Angst zu tun und fängt an zu schreien. Dann kommt die Nachbarin und die Göre sagt ihr, dass es daher kommt, dass ihre Mutter immer durch die Wand melken würde.</isebel:content>
+    <isebel:content xml:lang="eng">The witch milks through the wall. 
+There once was a farmer’s wife who always had more milk and butter than her neighbors did. That was because she was a witch. When she wanted to go for one [a cow], she told her daughter to sit by the churn and make butter while saying over and over, "One spoon full from every house." So the girl does, but she misheard the words and keeps saying: One bushel full from every house. Then there was so much butter, that she [the farmer’s wife] climbs out of the churn. That scares the girl and she starts screaming. So the woman from next door came over and the brat tells her this is because her mouther would always milk through the wall. 
+Cowherd Schmidt, Poischendorf near Glasin, told me this story. 
+Richard Brauer, secretary, Heiligendamm, nursing home</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100001114">
+      <dc:title>Heiligendamm</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">54.14211</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.84139</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110000874">
+      <isebel:name>Richard Brauer</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>contributor</isebel:role>
+      <isebel:profession>Sekretär</isebel:profession>
+    </isebel:person>
+    <isebel:person id="110010753">
+      <isebel:name>Schmidt</isebel:name>
+      <isebel:role>narrator</isebel:role>
+      <isebel:profession>Kuhhirte</isebel:profession>
+      <isebel:livingPlace id="100002188">
+        <dc:title>Poischendorf</dc:title>
+        <isebel:point>
+          <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.92961</datacite:pointLatitude>
+          <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.74668</datacite:pointLongitude>
+        </isebel:point>
+      </isebel:livingPlace>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-352" type="controlled vocabulary" provenance="WossiDiA-Index">Melken</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-503" type="controlled vocabulary" provenance="WossiDiA-Index">buttern</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-634" type="controlled vocabulary" provenance="WossiDiA-Index">Hexe</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-352" type="controlled vocabulary" provenance="WossiDiA-Index">Melken</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-865" type="controlled vocabulary" provenance="WossiDiA-Index">Butter</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-973" type="controlled vocabulary" provenance="WossiDiA-Index">Kind</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-980" type="controlled vocabulary" provenance="WossiDiA-Index">Tochter</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-426" type="controlled vocabulary" provenance="WossiDiA-Index">Milch</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-687" type="controlled vocabulary" provenance="WossiDiA-Index">Butterfass</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-507" type="controlled vocabulary" provenance="WossiDiA-Index">Wand</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-890" type="controlled vocabulary" provenance="WossiDiA-Index">Angst</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-779" type="controlled vocabulary" provenance="WossiDiA-Index">Haus</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-009-165" type="controlled vocabulary" provenance="WossiDiA-Index">Scheffel</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-012-299" type="controlled vocabulary" provenance="WossiDiA-Index">Bauersfrau</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-031-661" type="controlled vocabulary" provenance="WossiDiA-Index">Nachbarin</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B702" type="controlled vocabulary" provenance="RW-Index">Hexen</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B702" type="controlled vocabulary" provenance="RW-Index">witches</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B702-005" type="controlled vocabulary" provenance="RW-Index">Buttern, Melken</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B702-005" type="controlled vocabulary" provenance="RW-Index">tu churn butter, milking</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B702-005-016-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab881f/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

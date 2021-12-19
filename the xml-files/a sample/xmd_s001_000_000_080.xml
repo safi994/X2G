@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-080" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-080</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-080</isebel:purl>
+  <dc:title>[80] Mord</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">In Rottmannshagen is ʼn Eddelwief wäst, de het ehren Kutscher dootslagen mit ehr iesern Ääl. Hinnern Kirchhoff is ʼn Barg, dor het hei begraben Warden süllt. As se gegen dennʼ Kirchhoff kamen, hebben de vier Pier mit dat Liek nich betto wullt. Dor kümmt dat Eddelwief an un sleit de Pier so vääl mit ehr iesern Ääl, dat se bettogahn. Dor is he begraben up dennʼ Barg. Sien Broder is Scheperknecht wäst, de het ʼn drögen Hasselhandstock dorin stäken un seggt, wenn sien Broder selig würd, würd de gröön warden. De steiht noch, is gor nich wegtokriegen.
+
+Erzähler: Forstarbeiter Siebahn, Hallalit, Kreis Waren; Aufzeichner: Wossidlo, um 1898.</isebel:content>
+    <isebel:content xml:lang="deu">In Rottmannshagen ist eine Edelfrau gewesen, die hat ihren Kutscher totgeschlagen mit ihrer eisernen Elle. Hinterm Kirchhof ist ein Berg, dort hat er begraben werden sollen. Als sie in die Nähe des Kirchhofs kommen, haben die Pferde mit der Leiche nicht weiter gewollt. Da kommt die Edelfrau an und schlägt die Pferde so viel mit ihrer eisernen Elle, daß sie weitergehen. Da ist er auf dem Berg begraben worden. Sein Bruder ist Schäferknecht gewesen, der hat einen trockenen Haselhandstock in sein Grab gesteckt und gesagt, wenn sein Bruder selig würde, würde der grün werden. Der steht noch heute, er ist gar nicht auszurotten.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100001081">
+      <dc:title>Hallalit</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.64961</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.45253</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+    <isebel:place id="100002439">
+      <dc:title>Rottmannshagen</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.65073</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.85558</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110006525">
+      <isebel:name>Siebahn</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+      <isebel:profession>Forstarbeiter</isebel:profession>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-005-959" type="controlled vocabulary" provenance="WossiDiA-Index">Herrin</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-041-135" type="controlled vocabulary" provenance="WossiDiA-Index">hart</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-338" type="controlled vocabulary" provenance="WossiDiA-Index">Elle</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-450" type="controlled vocabulary" provenance="WossiDiA-Index">Kutscher</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-526" type="controlled vocabulary" provenance="WossiDiA-Index">totschlagen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-628" type="controlled vocabulary" provenance="WossiDiA-Index">eisern</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B610" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B610" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B610-004" type="controlled vocabulary" provenance="RW-Index">Harte Herrin</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B610-004" type="controlled vocabulary" provenance="RW-Index">Hard misstress</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B610-004-001-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab5f45/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-101" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-101</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-101</isebel:purl>
+  <dc:title>[101] Wiederkehr - Totenhemd</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">Upʼn Sünnabend hebben se spunnen. ⸢Dor⸣ is ʼne Hand kamen: „Swester, gah liggen un nimm Rauh, du kriggst doch man ʼn Hemd mit een Mau!“
+
+Erzähler: Witwe Rosenberg, 70 J., Parchim, Kreis Parchim; aus Spornitz, Kreis Parchim; Aufzeichner: Wossidlo, 22. 10. 1926.</isebel:content>
+    <isebel:content xml:lang="deu">Sonnabends haben sie [früher immer] gesponnen. Da ist eine Hand gekommen: „Schwester, geh liegen und zur Ruhe, du kriegst doch nur ein Hemd mit einem Ärmel!“</isebel:content>
+  </isebel:contents>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-832" type="controlled vocabulary" provenance="WossiDiA-Index">Toter</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-063" type="controlled vocabulary" provenance="WossiDiA-Index">Totenhemd</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-011-413" type="controlled vocabulary" provenance="WossiDiA-Index">Wiederkehr</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B902" type="controlled vocabulary" provenance="RW-Index">Tote</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B902" type="controlled vocabulary" provenance="RW-Index">dead</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B902-011" type="controlled vocabulary" provenance="RW-Index">Wiederkehr, Totenhemd</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B902-011" type="controlled vocabulary" provenance="RW-Index">Return, burial gown</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B902-011-003-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac0a49/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B902-011-003-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac0a4a/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

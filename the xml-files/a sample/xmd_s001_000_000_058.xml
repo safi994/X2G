@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-058" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-058</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-058</isebel:purl>
+  <dc:title>[58] Unschuldig gerichtet</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">Köppenbusch, direkt vor Ivenack rechts, wenn man von Zolkendorf rin kümmt, ca 100 Meter vor dem Kirchhof, dor sall een köppt sien. Vadder vertellte: Früher hebben de gräflichen Herrschaften in Ivenack sülben de Lüüd henrichtt. — Se hebben enen up ʼe Schinnerkoor sett. He het seggt, he seet up ʼn Eliaswagen. „Dat schitt di wat“, hebben se seggt, „du sittst up ʼe Schinnerkoor!“ He is henbröcht un köppt worden. ⸢Donn⸣ is ʼt Bloot ümmer wedder rutkamen. Se hebben ümmer wedder Sand up führt. Dat is dat Teken wäst, dat he unschullig richtt worden is. Dat wier ʼn gaatlichen Barg, ⸢de⸣ is mit grote Büsche bewussen, so vääl hebben se upführt, wiel dat Bloot ümmer wedder kamen is.
+
+Erzähler: Brahmstedt, Eldena, Kreis Ludwigslust; aus Fahrenholz, Kreis Altentreptow; Aufzeichner: Wossidlo, 30. 7. 1924.</isebel:content>
+    <isebel:content xml:lang="deu">Im Köppenbusch, direkt vor Ivenack, rechts, wenn man von Zolkendorf hereinkommt, ca. hundert Meter vor dem Kirchhof, soll einer geköpft worden sein. Vater erzählte: Früher haben in Ivenack die gräflichen Herrschaften selbst die Leute hingerichtet. Sie haben auch einmal einen auf den Schinderkarren gesetzt. Er hat gesagt, er säße auf dem Eliaswagen. „Pustekuchen“, haben die Leute gesagt, „du sitzt auf dem Schinderkarren!“ Er ist hingebracht und geköpft worden. Da ist sein Blut immer wieder herausgequollen. Sie haben immer wieder Sand darauf gefahren. Das ist das Zeichen dafür gewesen, daß er unschuldig hingerichtet worden ist. Es war ein ansehnlicher Berg, er ist mit großen Büschen bewachsen, so viel haben sie aufgefahren, weil das Blut immer wieder gekommen ist.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100000630">
+      <dc:title>Eldena</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.23014</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.42032</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+    <isebel:place id="100012574">
+      <dc:title>Zolkendorf</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.72157</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">13.00919</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+    <isebel:place id="100001233">
+      <dc:title>Ivenack</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.71073</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.96614</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110000830">
+      <isebel:name>Brahmstedt</isebel:name>
+      <isebel:role>narrator</isebel:role>
+      <isebel:livingPlace id="100000651">
+        <dc:title>Fahrenholz</dc:title>
+        <isebel:point>
+          <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.74463</datacite:pointLatitude>
+          <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">13.07392</datacite:pointLongitude>
+        </isebel:point>
+      </isebel:livingPlace>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:events>
+    <isebel:event id="990011199">
+      <isebel:date>1924-07-30</isebel:date>
+      <isebel:role>narration</isebel:role>
+    </isebel:event>
+  </isebel:events>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-776" type="controlled vocabulary" provenance="WossiDiA-Index">Taube</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-003-588" type="controlled vocabulary" provenance="WossiDiA-Index">Blut</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-961" type="controlled vocabulary" provenance="WossiDiA-Index">Herrschaft</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-006-921" type="controlled vocabulary" provenance="WossiDiA-Index">Köppenbusch</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-009-266" type="controlled vocabulary" provenance="WossiDiA-Index">Schinder</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-656" type="controlled vocabulary" provenance="WossiDiA-Index">Eliaswagen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-037-872" type="controlled vocabulary" provenance="WossiDiA-Index">köpfen</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Unschuldig: Taube, Torgelow etc.</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Inculpable: pidgeon, Torgelow etc.</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B608-017-029-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56ab/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

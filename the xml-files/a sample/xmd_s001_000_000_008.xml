@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-008" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-008</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-008</isebel:purl>
+  <dc:title>[8] Die Urgroßmutter mit dem feurigen Kamm</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">De Ellermudder in Basedow is so grausam un hart wäst: De Dierns het se, wenn se wat vergahn hebben, an ʼn iesern Aben anbunnen un denn so langʼ nabött, bet se verbrennt sünd. Eens Dags gifft se ehren Kutscher Ordre, he süll ehr na den hogen Barg führen, dor steiht ene grote Dann, von de ut kann man wiet oeverʼt Land kieken. „Hier will ik utstiegen“, seggt se, „du führ man to Huus, oever kiek di jo nich üm!“ Dor führt: he ok af. As he ʼn End lang weg is, juucht dat ʼn poor Mal up. Dor kann heʼt doch nich laten un öögt sik ʼn lütt bäten üm. dor wischt de Anner em dat linke Oog ut, oever so vääl het he doch seihn, dat se up ʼn Stohl säten het un een mit ʼn fürigen Kamm ehr ümmer dörch de Hoor treckt het. Dat het mi Hohnert vertellt. De Kutscher het dat utseggt, dorvon harr he sien ein Oog verluren.
+
+Erzähler: Arbeiter Sass, Waren, Kreis Waren; aus der Gegend von Wismar; Aufzeichner: Wossidlo, um 1885.</isebel:content>
+    <isebel:content xml:lang="deu">Die Urgroßmutter in Basedow ist so grausam und hart gewesen. Die Mädchen hat sie, wenn sie etwas falsch gemacht haben, an den eisernen Ofen gebunden und dann so lange nachgeheizt, bis sie verbrannt sind. Eines Tages gibt sie ihrem Kutscher den Auftrag, er solle sie nach dem hohen Berg fahren, dort steht eine große Tanne, von dort aus kann man weit übers Land sehen. „Hier will ich aussteigen“, sagt sie, „du fahre nur nach Hause, aber sieh dich ja nicht um!“ Da fährt er ja zurück. Als er ein Ende weg ist, kreischt es ein paarmal auf. Da kann erʼs doch nicht lassen und blickt sich ein klein wenig um, da wischt ihm der Teufel das linke Auge aus, aber so viel hat er doch gesehen, daß sie auf einem Stuhl gesessen hat und einer mit einem feurigen Kamm ihr immer durch das Haar gezogen hat. Das hat mir Hohnert erzählt. Der Kutscher hat das ausgesagt, davon habe er sein eines Auge verloren.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100000155">
+      <dc:title>Basedow</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.69711</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.68253</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110005732">
+      <isebel:name>Sass</isebel:name>
+      <isebel:role>narrator</isebel:role>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-001-053" type="controlled vocabulary" provenance="WossiDiA-Index">Edelleute</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-606" type="controlled vocabulary" provenance="WossiDiA-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-375" type="controlled vocabulary" provenance="WossiDiA-Index">Auge</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-450" type="controlled vocabulary" provenance="WossiDiA-Index">Kutscher</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-628" type="controlled vocabulary" provenance="WossiDiA-Index">eisern</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-685" type="controlled vocabulary" provenance="WossiDiA-Index">Ofen</isebel:keyword>
+    <isebel:keyword xml:lang="nds" id="XMD-M030-000-002-413" type="controlled vocabulary" provenance="WossiDiA-Index">Dirn</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-555" type="controlled vocabulary" provenance="WossiDiA-Index">verlieren</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-860" type="controlled vocabulary" provenance="WossiDiA-Index">anbinden</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-495" type="controlled vocabulary" provenance="WossiDiA-Index">grausam</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-540" type="controlled vocabulary" provenance="WossiDiA-Index">Grotte</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-604" type="controlled vocabulary" provenance="WossiDiA-Index">umkehren</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-804" type="controlled vocabulary" provenance="WossiDiA-Index">verbrennen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-824" type="controlled vocabulary" provenance="WossiDiA-Index">vergehen (Bed. untersch.)</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-014-724" type="controlled vocabulary" provenance="WossiDiA-Index">heizen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-016-967" type="controlled vocabulary" provenance="WossiDiA-Index">Ordre</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-025-235" type="controlled vocabulary" provenance="WossiDiA-Index">Land (Acker)</isebel:keyword>
+    <isebel:keyword xml:lang="nds" id="XMD-M030-000-040-300" type="controlled vocabulary" provenance="WossiDiA-Index">Elermudder</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-041-135" type="controlled vocabulary" provenance="WossiDiA-Index">hart</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B609-001-016-004">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab5929/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B609-001-016-003">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab5928/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B609-001-016-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab5927/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B609-001-016-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab5926/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

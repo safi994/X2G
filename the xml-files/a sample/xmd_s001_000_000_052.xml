@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-052" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-052</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-052</isebel:purl>
+  <dc:title>[52] Unschuldig gerichtet</dc:title>
+  <dc:title xml:lang="deu"/>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="deu">Auf der Bristower Feldmark liegt ein Berg, der wird Gerichtsberg genannt, weil da vor Zeiten einer unschuldig hingerichtet worden sein soll. Von diesem Berg erzählt uns die Sage folgendes: Auf diesem Berge ist vor Zeiten einer unschuldig hingerichtet worden. Kurz vor seiner Hinrichtung soll er zu seinem Freund gesagt haben, er sollte seinen vertrockneten Dornenhandstock auf seinen Hügel stecken, wenn der Stock ausgrünen werde, so wäre er unschuldig. Der Freund hat den Handstock auf sein Grab gesteckt, und da ist der Stock ausgegrünt. Aus diesem Stock ist dann ein großer Dornenbusch gewachsen.
+
+Erzähler: Weidt, Teterow, Kreis Teterow; aus Bristow, Kreis Teterow; Aufzeichner: Lehrer Kopeke, Teterow, Kreis Teterow, 15. 2. 1920</isebel:content>
+    <isebel:content xml:lang="nds">Uppe Galgenbreid is een doot makt. ⸢De het seggt⸣, dat wier unrecht, ⸢dat wier⸣ nich wohr. ⸢Dor⸣ süll ʼn Boom wassen, wo soebenerlei Früchte up wassen deden, un dor süll nie nich keen Aflegger von up ʼn annern Twieg wassen tom Teken. ⸢Dor⸣ is ʼn Appelboom. Upʼe Krön sünd allerlei Appel. De Stamm is as de Bööm hoch, baben het he ne ganze kruse Krön. He steiht midden up ʼn Acker. De Acker het früher anʼn Zechliner Amt hüürt, de ward nich beröögt.
+
+Erzähler: Büdner Stehlmann, Mirowdorf, Kreis Neustrelitz; Aufzeichner: Wossidlo, 9, 4. 1912.</isebel:content>
+    <isebel:content xml:lang="deu">Auf der Galgenbreite ist einer getötet worden. Der hat gesagt, es wäre unrecht, es wäre nicht wahr. Da solle ein Baum wachsen, auf welchem siebenerlei Früchte wüchsen, und zum Zeichen [seiner Unschuld] solle an keinem anderen Zweig ein Ableger davon anwachsen. Da steht auch wirklich ein Apfelbaum. An der Krone hängen verschiedenerlei Äpfel. Der Stamm ist so hoch wie bei anderen Bäumen, oben aber hat er eine ganz krause Krone. Er steht mitten auf dem Acker. Der Acker hat früher zum Amt Zechlin gehört, der wird noch heute nicht angerührt.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100001976">
+      <dc:title>Neukalen</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.82267</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.79113</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+    <isebel:place id="100001233">
+      <dc:title>Ivenack</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.71073</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.96614</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110001714">
+      <isebel:name>Federow</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+      <isebel:profession>Fischer</isebel:profession>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:events>
+    <isebel:event id="990010953">
+      <isebel:date>1910-10-23</isebel:date>
+      <isebel:role>narration</isebel:role>
+    </isebel:event>
+  </isebel:events>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-776" type="controlled vocabulary" provenance="WossiDiA-Index">Taube</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-785" type="controlled vocabulary" provenance="WossiDiA-Index">Knecht</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-003-588" type="controlled vocabulary" provenance="WossiDiA-Index">Blut</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-004-509" type="controlled vocabulary" provenance="WossiDiA-Index">Esche</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-006-921" type="controlled vocabulary" provenance="WossiDiA-Index">Köppenbusch</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-009-814" type="controlled vocabulary" provenance="WossiDiA-Index">spritzen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-009-819" type="controlled vocabulary" provenance="WossiDiA-Index">spuken</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-037-872" type="controlled vocabulary" provenance="WossiDiA-Index">köpfen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-037-875" type="controlled vocabulary" provenance="WossiDiA-Index">Hohlweg</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Unschuldig: Taube, Torgelow etc.</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Inculpable: pidgeon, Torgelow etc.</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B608-017-027-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56a9/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

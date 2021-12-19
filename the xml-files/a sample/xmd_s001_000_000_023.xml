@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-023" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-023</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-023</isebel:purl>
+  <dc:title>[23] Den Schatz nimmt der Meister</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <dc:title xml:lang="eng"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">Ne Stadtreis' is ne Dagreis'. (Dauert immer einen Tag.) 
+Dei Eggebrechts sünd noch hüüt gaut stellt in Ribnitz. In ollen Tieden wieren sei ganz riek. Dat väle Geld hebben sei up ʼne eigenorig Oort un Wies krägen. Ein von ehr Vörfohrn wier Bäcker. Hei wahnte an dennʼ Kirchhoff, dei dunn noch üm dei Stadtkirch liggen deed. Dei Bäckers backten jo nachts un müßten denn jo ok Füür anmaken, üm dei Melk un ok dennʼ Aben heit to kriegen. Anböten müßt ümmer ein Mäten, wat dor in Deinst wier. Einmal künn sei kein Füür ankriegen. Dunn sehg sei dörch dat Finster, dat dat up dennʼ Kirchhoff brennen deed. Sei wier ganz resolut un dacht: Züh, dit kann di passen, leep mit ʼn Emmer rut un haalt sik dennʼ vull Kahlen rin. As sei dirrs Glaut up dennʼ Hierd schüdden deed, verlöscht se. Se haalte noch enen tweeten Emmer vull, oever dat güng ehr dormit graad so. Dunn würd ehr doch so snaaksch to Mood, un se leep na dennʼ Meister un vertellte em dat. Na, dei slög jo fuurts in sik un schickte dat Mäten tau Bett un säädʼ, sei süll man slapen gahn, hei wull woll Füür anmaken. Hei geiht jo nu na dennʼ Füürhierd, üm dit Vertellers up dennʼ Grund tau gahn. Dunn fünn hei dor twei Mollen vull Gold un würd so tau einen ganz rieken Mann.
+
+Erzähler und Aufzeichner: Lehrer Suhr, Ribnitz, Kreis Ribnitz-Damgarten, 1937.</isebel:content>
+    <isebel:content xml:lang="deu">Die Eggebrechts stehen sich noch heute gut in Ribnitz. In alten Zeiten waren sie ganz reich. Das viele Geld haben sie auf eigenartige Art und Weise bekommen. Einer von ihren Vorfahren war Bäcker. Er wohnte am Kirchhof, der damals noch um die Stadtkirche herum lag. Die Bäcker backten ja nachts und mußten dann ja auch Feuer anmachen, um die Milch und den Ofen heiß zu bekommen. Anheizen mußte immer ein Mädchen, welches dort in Diensten war. Einmal gelang es ihr nicht, Feuer anzuzünden. Da sah sie durch das Fenster, daß es auf dem Kirchhof brannte. Sie war recht resolut und dachte: Sieh, das kommt dir gerade recht, lief mit dem Eimer hinaus und holt sich den voll Kohlen rein. Als sie die Glut auf den Herd schüttete, verlöscht sie. Sie holte noch einen zweiten Eimer voll, aber es erging ihr damit ebenso. Da wurde ihr doch so komisch zumute, und sie lief zum Meister und erzählte es ihm. Na, der dachte sich gleich sein Teil und schickte das Mädchen zu Bett und sagte, sie sollte nur schlafen gehen, er wollte schon Feuer anmachen. Er geht ja nun zum Herd, um der Geschichte auf den Grund zu gehen. Da fand er dort zwei Scheffel Gold und wurde so ein sehr reicher Mann.</isebel:content>
+    <isebel:content xml:lang="eng">Today, the Eggebrechts are still well thought of by all in Ribnitz. In the olden days, they were very rich. This money they got peculiarly. One of their ancestors was baker by trade. He lived by the churchyard, which was then around the municipal church. Baker baked certainly at nighttime and had to make a fire to warm the milk and the stove. Every time, a girl who was there on duty had to kindle the fire. Once, she was not able to do so. Then, she saw through the window that a fire was burning in the churchyard. She was quite resolute and thought, “Look that comes in useful to me.” She hurried out with a bucket and brought it back filled to capacity with coals. When she poured the embers on the stove, it went out. Therefore, she took a second bucket, but it happened again like the first time. That seemed strange to her, so she went to the master and told him that. Well, he had his own thoughts on the matter, sent the girl to bed and said she should just go to sleep because he would make a fire. He went certainly to the stove to find the underlying cause of it. Then, he found two bushels gold there and became in this way a rich man.</isebel:content>
+  </isebel:contents>
+  <isebel:persons>
+    <isebel:person id="110006831">
+      <isebel:name>Richard Suhr</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>contributor</isebel:role>
+      <isebel:role>narrator</isebel:role>
+      <isebel:profession>Lehrer</isebel:profession>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:events>
+    <isebel:event id="990007302">
+      <isebel:date>1937-01-01</isebel:date>
+      <isebel:role>narration</isebel:role>
+    </isebel:event>
+  </isebel:events>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-164" type="controlled vocabulary" provenance="WossiDiA-Index">weiblich</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-640" type="controlled vocabulary" provenance="WossiDiA-Index">Schätze</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-161" type="controlled vocabulary" provenance="WossiDiA-Index">Kohle</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-003-176" type="controlled vocabulary" provenance="WossiDiA-Index">Backofen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-200" type="controlled vocabulary" provenance="WossiDiA-Index">Geldbrennen</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B801" type="controlled vocabulary" provenance="RW-Index">Schätze</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B801" type="controlled vocabulary" provenance="RW-Index">treasure</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B801-004" type="controlled vocabulary" provenance="RW-Index">Geldbrennen: Mädchen holt Kohle von Backofen</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B801-004" type="controlled vocabulary" provenance="RW-Index">Money burning: girl takes coals from the oven</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B801-004-007-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3babc41c/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

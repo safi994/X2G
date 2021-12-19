@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-003" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-003</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-003</isebel:purl>
+  <dc:title>[3] Ein Bettler wird erschlagen</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">Neperstorf: ⸢En⸣ Mann ut Warin het bettelt. Se hebben em so vääl slagen müßt. ⸢Se hebben em⸣ upʼt Brett bunnen. ⸢He⸣ is in Blaut stickt. Dor geev dat ʼn Lied oever.</isebel:content>
+    <isebel:content xml:lang="deu">Neperstorf: Ein Mann aus Warin hat gebettelt. Sie haben ihn so viel schlagen müssen. Sie haben ihn auf ein Brett gebunden. Er ist im eigenen Blute erstickt. Darüber gab es ein Lied.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100002991">
+      <dc:title>Warin</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.80238</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.70502</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+    <isebel:place id="100002991">
+      <dc:title>Warin</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.80238</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.70502</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110003798">
+      <isebel:name>Kruse</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+      <isebel:profession>Schäfer</isebel:profession>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:events>
+    <isebel:event id="990011261">
+      <isebel:date>1914-04-04</isebel:date>
+      <isebel:role>narration</isebel:role>
+    </isebel:event>
+  </isebel:events>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-001-053" type="controlled vocabulary" provenance="WossiDiA-Index">Edelleute</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-606" type="controlled vocabulary" provenance="WossiDiA-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-099" type="controlled vocabulary" provenance="WossiDiA-Index">Mann</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-791" type="controlled vocabulary" provenance="WossiDiA-Index">schlagen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-003-516" type="controlled vocabulary" provenance="WossiDiA-Index">binden</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-003-555" type="controlled vocabulary" provenance="WossiDiA-Index">blau</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-003-737" type="controlled vocabulary" provenance="WossiDiA-Index">Brett</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-033-406" type="controlled vocabulary" provenance="WossiDiA-Index">betteln</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-033-811" type="controlled vocabulary" provenance="WossiDiA-Index">ersticken</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B609-001-009-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab591c/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

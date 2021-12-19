@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-043" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-043</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-043</isebel:purl>
+  <dc:title>[43] Unschuldig verbrannt</dc:title>
+  <dc:title xml:lang="deu"/>
+  <dc:title xml:lang="eng"/>
+  <dc:title xml:lang="nds"/>
+  <isebel:contents>
+    <isebel:content xml:lang="deu">Eine Frau im Dorf ist auch verbrannt worden, da sagt sie, ihre Nachbarin kann auch hexen (die ist aber unschuldig gewesen). Diese wird dann ja auch verbrannt und sagt, sie möchte wünschen, daß unser Herrgott gäbe, daß ein Zeichen aus ihrem Grabe käme zum Beweis, daß sie zu Unrecht verbrannt wäre. Da sind drei Nelken aus ihrem Grabe gewachsen. Von dieser Zeit an ist das Hexenverbrennen vorbei gewesen.</isebel:content>
+    <isebel:content xml:lang="eng">A woman from the village had been burnt to death too. Then she said, her female neighbour could work magic as well (but she was innocent). Therefore, the other woman had also been burnt and she said, she might wish that God give a token on her grave as a proof that she was burnt innocently. Three carnations grew on her grave. Since this time, the burning of witches is over.</isebel:content>
+    <isebel:content xml:lang="nds">En nawerfru is ok brennt worden, dor seggt se: "ehr n.1) kann ok hexen", (de is öwer unschullig west). De ward donn ok verbrennt un seggt, se wull wünschen, dat uns hgott2) gew, dat 'n teiken ut ehr graww kem, dat se unrecht brennt wir. dor sünt 3 nilken utwussen ut ehr graww. 
+von de tid af an is dat hexenbrennen vörbi kamen. 
+
+1) nawersch 
+2) herrgott</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100000178">
+      <dc:title>Beidendorf</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.82876</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.38835</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+    <isebel:place id="100002525">
+      <dc:title>Schimm</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.82515</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.57169</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110008548">
+      <isebel:name>? #Tiedt</isebel:name>
+      <isebel:role>narrator</isebel:role>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-776" type="controlled vocabulary" provenance="WossiDiA-Index">Taube</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-783" type="controlled vocabulary" provenance="WossiDiA-Index">Herr</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-785" type="controlled vocabulary" provenance="WossiDiA-Index">Knecht</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-791" type="controlled vocabulary" provenance="WossiDiA-Index">schlagen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-634" type="controlled vocabulary" provenance="WossiDiA-Index">Hexe</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-504" type="controlled vocabulary" provenance="WossiDiA-Index">Grenze</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-554" type="controlled vocabulary" provenance="WossiDiA-Index">grünen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-009-460" type="controlled vocabulary" provenance="WossiDiA-Index">Schweden</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-804" type="controlled vocabulary" provenance="WossiDiA-Index">verbrennen</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Unschuldig: Taube, Torgelow etc.</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Inculpable: pidgeon, Torgelow etc.</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B608-017-075-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56f7/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B608-017-075-005">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56fb/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B608-017-075-004">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56fa/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B608-017-075-003">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56f9/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B608-017-075-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56f8/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

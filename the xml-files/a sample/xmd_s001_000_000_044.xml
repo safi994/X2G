@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-044" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-044</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-044</isebel:purl>
+  <dc:title>[44] Unschuldig verbrannt / Blumen wachsen</dc:title>
+  <dc:title xml:lang="deu"/>
+  <dc:title xml:lang="eng"/>
+  <isebel:contents>
+    <isebel:content xml:lang="deu">Sage vom Hexenkeller in Penzlin 
+Der Letzte, der im Hexenkeller in Penzlin verbrannt worden ist, soll ein Kuhhirte gewesen sein, der etwas von der schwarzen Kunst verstanden hat. Vor der Exekution hat er gesagt, zum Zeichen, daß er unschuldig verbrannt werde, sollten einige Tage nach seinem Tode an der Richtstelle drei Blumen hervorwachsen. Das ist denn auch eingetroffen. Die Blumen sind aber ganz unbekannter Art gewesen, und die gelehrtesten Professoren haben sie nicht bestimmen können.</isebel:content>
+    <isebel:content xml:lang="eng">From the witch cellar in Penzlin
+The last who had been burnt to death in the cellar for witchcraft trials in Penzlin may have been a cowherd who understood something from black art. Before the execution, he said that as a token of his guiltlessness three flowers should grow some days after his death on this place. This happened. The flowers had been very strange, and the most academic professors could not ascertain them.</isebel:content>
+  </isebel:contents>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-776" type="controlled vocabulary" provenance="WossiDiA-Index">Taube</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-052" type="controlled vocabulary" provenance="WossiDiA-Index">Kuhhirte</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-990" type="controlled vocabulary" provenance="WossiDiA-Index">Hexenkeller</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Unschuldig: Taube, Torgelow etc.</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Inculpable: pidgeon, Torgelow etc.</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B608-017-031-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56af/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

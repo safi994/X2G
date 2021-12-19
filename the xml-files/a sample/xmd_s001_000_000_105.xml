@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-105" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-105</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-105</isebel:purl>
+  <dc:title>[105] Strafe für den Leichenfledderer</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">En Fru wier ut Goebehn, ⸢de⸣ het vertellt: ⸢En⸣ Mann is dootbläben. ⸢De Wittfru⸣ biddt dennʼ Herrn, ⸢he⸣ sall ehr helpen, em to Graff to bringen. Ne, ⸢seggt de⸣, se süll maken, ⸢dat se weg keem, ⸣ süss leet he ehr mit de Pietsch vonʼn Hoff bringen. ⸢Se⸣ geiht to Stadt ⸢un⸣ will ⸢wat⸣ köpen toʼn Inkleden. ⸢Vörher⸣ het ⸢se⸣ ehr Koh verköft. De Herr fröggt de Kinner, wo de Mudder wier ⸢un⸣ wo dat Geld wier för de Koh. Dat Geld het se Vadder ünnern Kopp leggt, wat se nich mitnahmen het. He will dat nähmen, dor grippt de Dood to an ʼn Arm. Se sagen em dennʼ Arm af. Dor faatt de Dood dennʼ annern Arm. Dor hebben se em laten. Annern Dag is he doot wäst.</isebel:content>
+    <isebel:content xml:lang="deu">Eine Frau war aus Gädebehn, die hat erzählt: Ein Mann ist gestorben. Die Witwe bittet den Herrn, er solle ihr helfen, ihn zu Grabe zu bringen. Nein, sagt der, sie sollte machen, daß sie wegkäme, sonst ließe er sie mit der Peitsche vom Hof jagen. Sie geht zur Stadt und will etwas für die Totenkleidung kaufen. Vorher hat sie ihre Kuh verkauft. Der Herr fragt die Kinder, wo die Mutter wäre und wo das Geld wäre für die Kuh. Das Geld, was sie nicht mitgenommen hat, hat sie Vätern unter den Kopf gelegt. Er will es wegnehmen, da greift der Tote ihn an den Arm. Man sägt ihm den Arm ab. Da faßt der Tote den andern Arm. Da haben sie ihn so gelassen. Am nächsten Tage war er tot.</isebel:content>
+  </isebel:contents>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-782" type="controlled vocabulary" provenance="WossiDiA-Index">Edelmann</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-832" type="controlled vocabulary" provenance="WossiDiA-Index">Toter</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-198" type="controlled vocabulary" provenance="WossiDiA-Index">Geld</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B819" type="controlled vocabulary" provenance="RW-Index">Tote</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B819" type="controlled vocabulary" provenance="RW-Index">dead</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B819-013" type="controlled vocabulary" provenance="RW-Index">Edelmann, Toter, Geld</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B819-013" type="controlled vocabulary" provenance="RW-Index">Nobleman, dead, money</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B819-013-005-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac0373/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B819-013-005-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac0374/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

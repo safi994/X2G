@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-065" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-065</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-065</isebel:purl>
+  <dc:title>[65] Aus Willkür gerichtet</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">In Basedow is Gericht wäst; früher het jo de Adelschaft ehr Gericht allein hatt. Nu is dor in Swinkendörp en Mäten wäst, dat is beschuldigt, se harr en Timmer anstickt. Dor is se na dennʼ „Gerichtsbarg“ in Basedow bröcht. (Früher wier dat ʼn Barg, nu is dat all ʼne Kuul, dor hebben se Gnitt rutführt.) Twee Preesters sünd mit gahn. Dat Land ümher is vull Kuurn seiht wäst; un dor sünd so vääl Minschen wäst, de hebben sik dat all mit ansehn wullt. De een Preester seggt to de Lüüd: „Kinder, Kinder, ihr zertretet ja alles Korn!“ „Ei was“, het dor de anner seggt, „das Korn wächst wieder, aber sorgt für die Seele!“ Dor is dat Mäten verbrennt un de Preester het to ehr seggt, wenn se selig warden deed, mücht se bi em kamen as ʼne witt Duuv un anʼt Finster kratzen, dat dor Bloot keem, wenn se oever nich selig warden deed, mücht se kamen as ʼn Raav un schriegen, dat ʼt gor nich uttohollen wier. Dor is se kamen as ʼne Duuv un het an ʼt Finster kratzt, dat dat Bloot anʼt Zäms to sehn wäst is.
+
+Erzähler: Ziegler Korff, Groß Gievitz, Kreis Waren; Aufzeichner: Wossidlo, um 1894.</isebel:content>
+    <isebel:content xml:lang="deu">In Basedow ist ein Gericht gewesen. Früher hat ja die Adelschaft ihr Gericht für sich gehabt. Nun ist da in Schwinkendorf ein Mädchen gewesen, das ist beschuldigt worden, sie habe ein Zimmer in Brand gesteckt. Da ist sie nach dem „Gerichtsberg“ in Basedow gebracht worden. (Früher war das ein Berg, nun ist es schon eine Grube, man hat dort Kies abgefahren.) Zwei Priester sind mitgegangen. Das Land umher ist mit Korn besät gewesen; und es sind da so viele Menschen gewesen, die haben sich das alle mit ansehen wollen. Der eine Priester sagt zu den Leuten: „Kinder, Kinder, ihr zertretet ja alles Korn!“ „Ei was“, hat da der andere gesagt, „das Korn wächst wieder, aber sorgt für die Seele!“ Da ist das Mädchen verbrannt worden, und der Priester hat zu ihr gesagt, wenn sie selig würde, möchte sie zu ihm kommen als eine weiße Taube und so ans Fenster kratzen, daß das Blut käme, wenn sie aber nicht selig würde, möchte sie kommen als ein Rabe und schreien, daß es gar nicht auszuhalten wäre. Da ist sie gekommen als eine Taube und hat ans Fenster gekratzt, daß das Blut auf dem Sims zu sehen gewesen ist.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100020899">
+      <dc:title>Gielow</dc:title>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+    <isebel:place id="100000155">
+      <dc:title>Basedow</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.69711</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.68253</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+    <isebel:place id="100002609">
+      <dc:title>Schwinkendorf</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.64351</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.68336</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110003567">
+      <isebel:name>Korff</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+      <isebel:profession>Ziegler</isebel:profession>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-776" type="controlled vocabulary" provenance="WossiDiA-Index">Taube</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-776" type="controlled vocabulary" provenance="WossiDiA-Index">Taube</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-572" type="controlled vocabulary" provenance="WossiDiA-Index">Priester</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-844" type="controlled vocabulary" provenance="WossiDiA-Index">Seele</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-281" type="controlled vocabulary" provenance="WossiDiA-Index">Adel</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-003-588" type="controlled vocabulary" provenance="WossiDiA-Index">Blut</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-244" type="controlled vocabulary" provenance="WossiDiA-Index">Gerichtsberg</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-006-926" type="controlled vocabulary" provenance="WossiDiA-Index">Kornanbau</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-007-088" type="controlled vocabulary" provenance="WossiDiA-Index">Kuhle</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-008-833" type="controlled vocabulary" provenance="WossiDiA-Index">richten</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-009-574" type="controlled vocabulary" provenance="WossiDiA-Index">selig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-804" type="controlled vocabulary" provenance="WossiDiA-Index">verbrennen</isebel:keyword>
+    <isebel:keyword xml:lang="nds" id="XMD-M030-000-014-428" type="controlled vocabulary" provenance="WossiDiA-Index">Gnitt</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-024-978" type="controlled vocabulary" provenance="WossiDiA-Index">kratzen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-047-448" type="controlled vocabulary" provenance="WossiDiA-Index">Frau</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Unschuldig: Taube, Torgelow etc.</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Inculpable: pidgeon, Torgelow etc.</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B608-017-063-004">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56e5/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B608-017-063-003">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56e4/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B608-017-063-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56e3/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B608-017-063-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56e2/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

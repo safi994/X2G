@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-091" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-091</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-091</isebel:purl>
+  <dc:title>[91] Todesstrafe für kleine Dienstvergehen</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">⸢Dor⸣ wier ʼn Mäten Stolp. De is henbröcht up ʼe Stöörtkarr naʼn Galgenbarg bi Vollrathsruhe. Se het na ʼn Buurn süllt, de slicht wäst is gegen de Deensten. As se bi ʼn Aantsee bi Hallalit vörbi kümmt, is se in dennʼ See SPRUNGEN un dor in versapen. Ahn Pass het se nich na ʼt Preußisch rinflüchten künnt. Se het de Hännʼ faltt hatt un sungen: „Oh Jesu, dir leb ich“. Se het noch seggt: Wenn se selig würd, mücht de leev Gott gäben, dat dor ʼn Haavduurnbusch up ehr Graff wassen deed. De is wussen, un wo mihrer dat he haugt is, wo hübscher is he worden.
+
+Erzähler: Frau Sokrü, Waren, Kreis Waren; Aufzeichner: Wossidlo.</isebel:content>
+    <isebel:content xml:lang="deu">Es war ein Mädchen mit Namen Stolpe. Die ist mit dem Schubkarren zum Galgenberg bei Vollrathsruhe gebracht worden. Sie hat zu einem Bauern gesollt, der schlecht gegen seine Dienstleute gewesen ist. Als sie am Entensee bei Hallalit vorbeikommt, ist sie in den See gesprungen und darin ertrunken. Ohne Paß hat sie nicht ins Preußische flüchten können. Sie hat die Hände gefaltet und gesungen: „Oh Jesu, dir leb ich“. Sie hat noch gesagt: Wenn sie selig würde, möchte der liebe Gott geben, daß dort ein Hagedornstrauch aus ihrem Grabe wüchse. Der ist gewachsen. Und je öfter er abgeschlagen worden ist, umso hübscher ist er geworden.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100002988">
+      <dc:title>Waren</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.51434</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.68948</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+    <isebel:place id="100002948">
+      <dc:title>Vollrathsruhe</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.64461</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.49198</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110006567">
+      <isebel:name>Sokrü</isebel:name>
+      <isebel:gender>female</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-776" type="controlled vocabulary" provenance="WossiDiA-Index">Taube</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-403" type="controlled vocabulary" provenance="WossiDiA-Index">Bauer</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-585" type="controlled vocabulary" provenance="WossiDiA-Index">See (der)</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-618" type="controlled vocabulary" provenance="WossiDiA-Index">Dornbusch</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-754" type="controlled vocabulary" provenance="WossiDiA-Index">singen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-637" type="controlled vocabulary" provenance="WossiDiA-Index">Grab</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-066" type="controlled vocabulary" provenance="WossiDiA-Index">Galgenberg</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-009-301" type="controlled vocabulary" provenance="WossiDiA-Index">schlecht</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-289" type="controlled vocabulary" provenance="WossiDiA-Index">ertränken</isebel:keyword>
+    <isebel:keyword xml:lang="nds" id="XMD-M030-000-030-770" type="controlled vocabulary" provenance="WossiDiA-Index">Störtkor</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-047-448" type="controlled vocabulary" provenance="WossiDiA-Index">Frau</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Unschuldig: Taube, Torgelow etc.</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Inculpable: pidgeon, Torgelow etc.</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B608-017-065-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56e8/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

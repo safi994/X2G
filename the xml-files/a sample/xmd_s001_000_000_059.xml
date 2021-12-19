@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-059" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-059</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-059</isebel:purl>
+  <dc:title>[59] Unschuldig gerichtet</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">Wenn ʼn ut Ivenack rut geiht hen na Zolkendörp, denn liggt linker Hand dei Köppenbusch. Dorin is ʼn Barg, dei dor früher nich wäst is. Ein Mäten sall nämlich eis ehr Kind dootmaakt hebben. Sei hadd ʼt oever nich daan. Wiel dat oever dat Gericht doch glöven deed, süll sei henrichtt warden. Vorher sääd sei noch: „Dei leiv Gott sall ʼn Teiken gäben, dat ik unschüllig bün!“ Un würklich, as ehr de Kopp afslagen wier, donn wull dat Blaut nich stahn. Viertein Dag hebben dei Buurn Ier führt, un ümmer keem dat Blaut wedder baben up. Donn wüßten dei Lüüd, dat dat arm Mäten unschüllig henrichtt wier.
+
+Erzähler: Eltern des Aufzeichners aus Kriesow, Kreis Altentreptow; Aufzeichner: Seminarist Fritz Müller, Neukloster, Kreis Wismar.</isebel:content>
+    <isebel:content xml:lang="deu">Wenn man aus Ivenack herausgeht in Richtung Zolkendorf, dann liegt linker Hand der Köppenbusch. Darin ist ein Berg, der früher nicht dort gewesen ist. Ein Mädchen soll nämlich einmal ihr Kind getötet haben. Sie hatte es aber nicht getan. Weil es das Gericht aber doch glaubte, sollte sie hingerichtet werden. Vorher sagte sie noch: „Der liebe Gott soll ein Zeichen geben, daß ich unschuldig bin!“ Und wirklich, als ihr Kopf abgeschlagen war, wollte das Blut nicht stille stehn. Vierzehn Tage lang haben die Bauern Erde gefahren, und immer noch kam das Blut wieder nach oben. Da wußten die Leute, daß das arme Mädchen unschuldig hingerichtet war.</isebel:content>
+  </isebel:contents>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-776" type="controlled vocabulary" provenance="WossiDiA-Index">Taube</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Unschuldig: Taube, Torgelow etc.</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Inculpable: pidgeon, Torgelow etc.</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B608-017-028-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56aa/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

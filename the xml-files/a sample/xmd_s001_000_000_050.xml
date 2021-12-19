@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-050" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-050</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-050</isebel:purl>
+  <dc:title>[50] Unschuldig gerichtet</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <dc:title xml:lang="eng"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">Bi Brandenhusen is ein Köppenbarg, dor is früher eins ein Mamsell köppt worrn. Sei het seggt, sei wier unschullig köppt, „un wenn ik inʼn Himmel kaam, denn kaam ik as witt Duuv up dennʼ Barg, un kaam ik in de Holl, so kaam ik as Kreih“. Sei is oever ümmer as witt Duuv kamen.
+
+Erzähler: Armenhäusler Franz Tegler, 15 J., Kirchdorf a. Poel, Kreis Wismar (von seiner Großmutter); Aufzeichner: Lehrer Mirow, Kirchdorf a. Poel, Kreis Wismar, 17. 7. 1927.</isebel:content>
+    <isebel:content xml:lang="deu">Bei Brandenhusen ist ein Köppenberg, dort ist früher einmal eine Mamsell geköpft worden. Sie hat gesagt, sie sei unschuldig geköpft, „und wenn ich in den Himmel komme, dann komme ich als weiße Taube auf den Berg, und komme ich in die Hölle, so komme ich als Krähe“. Sie ist aber immer als weiße Taube gekommen.</isebel:content>
+    <isebel:content xml:lang="eng">Near Brandenhusen is a hill for tribunal purposes. In the old days, a Mamsell (housekeeper) was decapitated there. She said she was decapitated innocently “And when I come into heaven then I come back as a white dove on the hill, and when I come into hell so I come back as a crow.” However, she always came as a white dove.</isebel:content>
+  </isebel:contents>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-185" type="controlled vocabulary" provenance="WossiDiA-Index">Zeichen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-832" type="controlled vocabulary" provenance="WossiDiA-Index">Toter</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-389" type="controlled vocabulary" provenance="WossiDiA-Index">Gnade</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B819" type="controlled vocabulary" provenance="RW-Index">Tote</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B819" type="controlled vocabulary" provenance="RW-Index">dead</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B819-012" type="controlled vocabulary" provenance="RW-Index">Zeichen, ob Gnade</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B819-012" type="controlled vocabulary" provenance="RW-Index">sign, if pardon</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B819-012-003-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac0359/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

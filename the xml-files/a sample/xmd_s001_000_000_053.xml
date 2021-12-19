@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-053" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-053</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-053</isebel:purl>
+  <dc:title>[53] Unschuldig gerichtet</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">In Zechlin bi dat Forsthuus Buchheide is ʼn lütten Goren, dor steiht ʼn Boom in, de dreggt soebenerlei Frucht. Dor is ʼn Minsch verurteilt wäst, de het ʼn Beerstruuk upnahmen: So wohr as he unschuldig wier, so wohr würd de upwassen. Jedes Blatt von dennʼ Boom sall good sin vor alle Krankheiten.
+
+Erzähler: Blau, jun. (Vater Forstarbeiter), Zirtow, Kreis Neustrelitz; Aufzeichner: Wossidlo, 1897.</isebel:content>
+    <isebel:content xml:lang="deu">In Zechlin beim Forsthaus Buchheide ist ein kleiner Garten, darin steht ein Baum, der trägt siebenerlei Frucht. Dort ist ein Mensch verurteilt worden, der hat einen Birnenzweig aufgenommen: So wahr er unschuldig sei, so wahr würde der aufwachsen. Jedes Blatt von dem Baum soll gut sein gegen alle Krankheiten.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100003226">
+      <dc:title>Zirtow</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.27017</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.90227</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+    <isebel:place id="100011839">
+      <dc:title>Zechlin</dc:title>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110000630">
+      <isebel:name>Blau jun.</isebel:name>
+      <isebel:role>narrator</isebel:role>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-776" type="controlled vocabulary" provenance="WossiDiA-Index">Taube</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-077" type="controlled vocabulary" provenance="WossiDiA-Index">Baum</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-150" type="controlled vocabulary" provenance="WossiDiA-Index">Krankheiten</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-619" type="controlled vocabulary" provenance="WossiDiA-Index">Garten</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-283" type="controlled vocabulary" provenance="WossiDiA-Index">Blatt</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-000" type="controlled vocabulary" provenance="WossiDiA-Index">Frucht</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-031-203" type="controlled vocabulary" provenance="WossiDiA-Index">sieben (Zahl)</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-031-895" type="controlled vocabulary" provenance="WossiDiA-Index">Forsthaus</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Unschuldig: Taube, Torgelow etc.</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Inculpable: pidgeon, Torgelow etc.</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B608-017-046-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56cc/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B608-017-046-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56cb/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

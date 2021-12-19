@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-048" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-048</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-048</isebel:purl>
+  <dc:title>[48] Unschuldige Kindesmörderin</dc:title>
+  <dc:title xml:lang="deu"/>
+  <dc:title xml:lang="eng"/>
+  <isebel:contents>
+    <isebel:content xml:lang="deu">Vom Blutbaum in Mirowdorf, Kreis Stargard
+In Mirowdorf wurde vor vielen Jahren ein junges Mädchen wegen Tötung ihres Kindes zum Tode verurteilt. Sie beteuerte ständig ihre Unschuld und erklärte, daß an der Stelle, da sie ihr Leben lassen müsse, ein Baum wachsen würde, wie ihn noch niemand gesehen habe. Wenn man in seine Rinde schneiden würde, würde ein Saft rot wie Blut herausfließen. Die Hinrichtung fand im „Birkenwäldchen auf dem Galgenberg“ zwischen Mirowdorf und Starsow statt. Einige Zeit nach der Vollstreckung des Todesurteils wuchs auf der Hinrichtungsstätte ein Baum, den noch niemand gesehen hatte. Man schnitt in seine Rinde und alsbald floß ein Saft rot wie Blut heraus. Da sagten die Leute im Dorfe, daß das Mädchen unschuldig hingerichtet worden sei.
+
+Erzähler: Bauer Augustin, Mirowdorf, Kreis Neustrelitz; Aufzeichner: Justizinspektor Walter Fiedler, Mirowdorf, Kreis Neustrelitz, 11. 2. 1939.</isebel:content>
+    <isebel:content xml:lang="eng">From the tree of blood in Mirowdorf, Kreis Stargard
+Before many years, a young girl was sentenced to death in Mirowdorf due to killing her child. She protested her innocence and explained that at this place a tree would grow as previously nobody had seen it because she had to lose her life. When somebody cut in its bark liquid red as blood would flow out of the tree. The execution happened between Mirowdorf and Starsow in the “birch forest on the hill of gallows”. Some while after carrying out the death sentence, a tree grew on the place of execution that no one knew. The bark was cut and quickly liquid red as blood flowed out of the tree. Then, the people in the village said the girl was executed innocently.</isebel:content>
+  </isebel:contents>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-776" type="controlled vocabulary" provenance="WossiDiA-Index">Taube</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-408" type="controlled vocabulary" provenance="WossiDiA-Index">Schäfer</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-763" type="controlled vocabulary" provenance="WossiDiA-Index">Pferd</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-046" type="controlled vocabulary" provenance="WossiDiA-Index">Eiche</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-066" type="controlled vocabulary" provenance="WossiDiA-Index">Galgenberg</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-554" type="controlled vocabulary" provenance="WossiDiA-Index">grünen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-008-368" type="controlled vocabulary" provenance="WossiDiA-Index">Pferdedieb</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-003" type="controlled vocabulary" provenance="WossiDiA-Index">Stock</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Unschuldig: Taube, Torgelow etc.</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Inculpable: pidgeon, Torgelow etc.</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B608-017-015-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab569b/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

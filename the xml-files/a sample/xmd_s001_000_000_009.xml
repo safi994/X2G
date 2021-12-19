@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-009" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-009</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-009</isebel:purl>
+  <dc:title>[9] Die geldgierige Herrin</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <dc:title xml:lang="eng"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">⸢En Scheper⸣ het ⸢bi dennʼ Herrn sien⸣ Pacht betahlt. ⸢Kort dorna is de⸣ Eddelmann storben. ⸢Sien⸣ Fru seggt, se harr noch keen Pacht vonʼn Scheper krägen. ⸢De⸣ geiht ⸢nu ganz⸣ bedröövt rüm. ⸢Donn⸣ kümmt de Düvel bi em ⸢un seggt, he wull em helpen. Se⸣ wullen ⸢eens dennʼ⸣ Herrn upsöken. ⸢Se kamen ja⸣ hen na de Höll. ⸢De⸣ Herr liggt inʼt Füür ⸢un de lütten Düvels möten em⸣ herharken. ⸢He is so⸣ heit. ⸢De Scheper vertellt, wo em dat mit de Fru gahn is. Donn⸣ sall ⸢he de⸣ Mütz henhollen, ⸢de Eddelmann⸣ will em sienen Ring doon ⸢as Teiken, dat he bi em wäst is. Oever de Ring is so heit, he⸣ föllt dörch ⸢de⸣ Mütz dörch. ⸢De Scheper⸣ süll sien Fru man seggen, de Räknung steek achter ʼt Speigel. ⸢Un up⸣ dree Bein stünn se all in ʼe Höll.
+
+Erzähler: Frau Helms, Grevesmühlen, Kreis Grevesmühlen; Aufzeichner: Wossidlo.</isebel:content>
+    <isebel:content xml:lang="deu">[Ein] Schäfer hat die Pacht bezahlt. Der Edelmann ist gestorben. Die Frau sagt, sie hätte noch keine Pacht vom Schäfer bekommen…. Geht betrübt rum, kommt der Teufel zu ihm… Wollen den Herrn aufsuchen. Hin in die Hölle, Herr liegt im Feuer, harkt hin und her, ist so heiß. will seinen Ring geben… soll die Mütze hinhalten…. Fällt durch die Mütze. Solle seiner Frau man sagen, die Rechnung stecke hinter dem Spiegel. Sie stünde in der Hölle schon auf drei Beinen.</isebel:content>
+    <isebel:content xml:lang="eng">[A] shepherd payed the rental. The nobleman had died. The wife claims he hadn’t received the money from the shepherd yet… Walks around all sorrowful, the devil comes to him… Want to pay Mr. [nobleman] a visit. Down to hell, Mr. Lies in the fire, rakes to and fro, is so hot. [He] wants to give his ring… shall hold out the cap… Falls through the cap. They shall tell her wife the check is tucked behind the mirror. She were likely condemned to hell.</isebel:content>
+  </isebel:contents>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-124" type="controlled vocabulary" provenance="WossiDiA-Index">Kopf</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-832" type="controlled vocabulary" provenance="WossiDiA-Index">Toter</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-198" type="controlled vocabulary" provenance="WossiDiA-Index">Geld</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-008-656" type="controlled vocabulary" provenance="WossiDiA-Index">Quittung</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B819" type="controlled vocabulary" provenance="RW-Index">Tote</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B819" type="controlled vocabulary" provenance="RW-Index">dead</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B819-010" type="controlled vocabulary" provenance="RW-Index">Quittung, Geld unter Kopf</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B819-010" type="controlled vocabulary" provenance="RW-Index">Receipt, money under head</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B819-010-001-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac0327/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B819-010-001-003">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac0328/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B819-010-001-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac0326/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

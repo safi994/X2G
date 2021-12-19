@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-076" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-076</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-076</isebel:purl>
+  <dc:title>[76] Mit Peitsche und Knüppel</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">De Herr Schröder in Dägtow het to ʼn Paster seggt up ʼt Dodenbett: wenn he doch so starben künn, as de ärmste Minsch. He hadd so vääl Unrecht daan, ⸢he⸣ het de Lüüd dat Fleesch ut de Knaken ruterpietscht. 
+
+Erzähler: Stadtschäfer Buhk, Grevesmühlen, Kreis Grevesmühlen; Aufzeichner: Wossidlo, 25. 6. 1928.</isebel:content>
+    <isebel:content xml:lang="deu">Der Herr Schröder in Degtow hat auf dem Totenbett zum Pastor gesagt: wenn er doch so sterben könnte, wie der ärmste Mensch. Er hatte so viel Unrecht getan, er hat den Leuten das Fleisch von den Knochen gepeitscht.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100000922">
+      <dc:title>Grevesmühlen</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.86487</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.18473</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110001054">
+      <isebel:name>Buhk</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+      <isebel:profession>Stadtschäfer</isebel:profession>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:events>
+    <isebel:event id="990010936">
+      <isebel:date>1928-06-25</isebel:date>
+      <isebel:role>narration</isebel:role>
+    </isebel:event>
+  </isebel:events>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-751" type="controlled vocabulary" provenance="WossiDiA-Index">Pastor</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-783" type="controlled vocabulary" provenance="WossiDiA-Index">Herr</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-241" type="controlled vocabulary" provenance="WossiDiA-Index">Totenbett</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-336" type="controlled vocabulary" provenance="WossiDiA-Index">Unrecht</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-970" type="controlled vocabulary" provenance="WossiDiA-Index">sterben</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-032-869" type="controlled vocabulary" provenance="WossiDiA-Index">peitschen</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608-019" type="controlled vocabulary" provenance="RW-Index">Varia</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608-019" type="controlled vocabulary" provenance="RW-Index">varia</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B608-019-046-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab5849/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

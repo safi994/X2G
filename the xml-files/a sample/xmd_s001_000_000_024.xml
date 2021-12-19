@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-024" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-024</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-024</isebel:purl>
+  <dc:title>[24] Den Schatz nimmt der Meister</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <dc:title xml:lang="eng"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">In de Lausensch Gegend is ʼne Moehl (non certo). ⸢De⸣ Diern het morgens Kaffe kaken wullt. ⸢Se⸣ kann ⸢oever⸣ keen Füür ankriegen ⸢un⸣ will Busch rinhalen. Dor brennt ⸢buten Füür.⸣ Se haalt sik ʼne Schüpp vull, ⸢oever⸣ dat Füür geiht wedder ut. Se geiht noch mal hen. As se toʼn drüddenmal henkümmt, dor isʼt weg. ⸢Dunn⸣ kümmt de Möller an ⸢un⸣ se vertellt em dat. ⸢Dunn seggt he:⸣ „Gah mal rasch to Bett, ⸢ik war dat Füür woll ankriegen“. Dat is all Geld wäst up dennʼ Hierd.⸣
+
+Erzähler: Bergmann X, Vielank, Kreis Ludwigslust Aufzeichner: Wossidlo</isebel:content>
+    <isebel:content xml:lang="deu">In der Gegend von Loosen ist eine Mühle (nicht ganz sicher). Die Magd hat morgens Kaffee kochen wollen. Sie kann aber kein Feuer in Gang bekommen und will Reisig hereinholen. Da brennt draußen Feuer. Sie holt sich eine Schaufel voll, aber das Feuer geht wieder aus. Sie geht noch einmal hin. Als sie zum drittenmal kommt, da ist es weg. Da kommt der Müller an und sie erzählt ihm das. Da sagt er: „Geh nur schnell zu Bett, ich werde das Feuer wohl in Gang bekommen“. Das ist alles Geld gewesen auf dem Herd.</isebel:content>
+    <isebel:content xml:lang="eng">Around Loosen is a mill (it is not very sure). At morning, the maidservant wanted to brew coffee. However, she could not light a fire and wanted to use brushwood as an aid. Outside, a fire was burning. She brought a shovelful, but the fire went out. She walked again there. When she reached a third time, the fire was gone. Then, the miller arrived and she told him that. Then, he said, “Just go to bed quickly!  I will make the fire successfully.” It was all money on the stove.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100001737">
+      <dc:title>Lübtheen</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.30236</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.08338</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110000539">
+      <isebel:name>Bergmann</isebel:name>
+      <isebel:role>narrator</isebel:role>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:events>
+    <isebel:event id="990011070">
+      <isebel:date>1914-04-07</isebel:date>
+      <isebel:role>narration</isebel:role>
+    </isebel:event>
+  </isebel:events>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-164" type="controlled vocabulary" provenance="WossiDiA-Index">weiblich</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-640" type="controlled vocabulary" provenance="WossiDiA-Index">Schätze</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-161" type="controlled vocabulary" provenance="WossiDiA-Index">Kohle</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-003-176" type="controlled vocabulary" provenance="WossiDiA-Index">Backofen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-200" type="controlled vocabulary" provenance="WossiDiA-Index">Geldbrennen</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B801" type="controlled vocabulary" provenance="RW-Index">Schätze</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B801" type="controlled vocabulary" provenance="RW-Index">treasure</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B801-004" type="controlled vocabulary" provenance="RW-Index">Geldbrennen: Mädchen holt Kohle von Backofen</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B801-004" type="controlled vocabulary" provenance="RW-Index">Money burning: girl takes coals from the oven</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B801-004-014-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3babc425/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B801-004-014-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3babc426/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

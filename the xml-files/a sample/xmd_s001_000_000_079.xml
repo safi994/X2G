@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-079" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-079</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-079</isebel:purl>
+  <dc:title>[79] Grausame Herrin</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">In Dargun is en Fru wäst, dat Mäten het inʼn Aben böten müßt, het alles wedder ruthalen müßt, sovääl het se ehr trietzt.
+
+Erzähler: Bauer Voss, Warsow, Kreis Malchin; Aufzeichner: Wossidlo, 10. 3. 1911.</isebel:content>
+    <isebel:content xml:lang="deu">In Dargun ist eine Frau gewesen. Das Mädchen hat den Ofen heizen müssen, hat alles wieder herausholen müssen, so sehr hat sie sie getriezt.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100020243">
+      <dc:title>Warsow</dc:title>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110007243">
+      <isebel:name>Voss</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+      <isebel:profession>Bauer</isebel:profession>
+      <isebel:livingPlace id="100002882">
+        <dc:title>Ulrichshusen</dc:title>
+        <isebel:point>
+          <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.62684</datacite:pointLatitude>
+          <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.63143</datacite:pointLongitude>
+        </isebel:point>
+      </isebel:livingPlace>
+      <isebel:livingPlace id="100001446">
+        <dc:title>Kleverhof</dc:title>
+        <isebel:point>
+          <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.88601</datacite:pointLatitude>
+          <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.73557</datacite:pointLongitude>
+        </isebel:point>
+      </isebel:livingPlace>
+      <isebel:livingPlace id="100000155">
+        <dc:title>Basedow</dc:title>
+        <isebel:point>
+          <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.69711</datacite:pointLatitude>
+          <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.68253</datacite:pointLongitude>
+        </isebel:point>
+      </isebel:livingPlace>
+      <isebel:livingPlace id="100000349">
+        <dc:title>Brudersdorf</dc:title>
+        <isebel:point>
+          <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.95378</datacite:pointLatitude>
+          <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.87891</datacite:pointLongitude>
+        </isebel:point>
+      </isebel:livingPlace>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:events>
+    <isebel:event id="990011389">
+      <isebel:date>1911-03-10</isebel:date>
+      <isebel:role>narration</isebel:role>
+    </isebel:event>
+  </isebel:events>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-001-053" type="controlled vocabulary" provenance="WossiDiA-Index">Edelleute</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-606" type="controlled vocabulary" provenance="WossiDiA-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B609-001-005-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab5918/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

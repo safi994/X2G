@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-031" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-031</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-031</isebel:purl>
+  <dc:title>[31] Der Landsherr straft den Ritter</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <dc:title xml:lang="eng"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">Ein Gaudsbesitzer in dei Wittenbörger Gegend, woans hei heiten het un von wecken Gaut hei wier, weit ik nich mihr, het sien Lüüd ümmer so siecht behannelt. Wenn sei nich öllig arbeett hebben, het hei sei mirrags na ein Stuuv rinropen, einen na dennʼ annern. Donn hebben sei sik uttrecken müßt un denn het hei sei mit dei Hunnpietsch dörchwalkt. Hiervon hüürt dei Großherzog Friedrich Franz I. Hei treckt sik Daglöhnertüüg oever sien Mondierung un vermeidt sik as Knecht bi dennʼ Gautsherrn. Annern Vörmiddag mööt hei pläugen. Mit Willʼ möök hei Bölkstäden un Hasenlagers un leet dennʼ Herrn schimpen, so vääl hei wull. Anʼn Mirrag müßt hei denn mit na dat Prügeltimmer rin. As hei sik uttrecken süll, reet hei sien Tüüg apen, dat de Ordens tau seihn wieren. O, wat het dei Herr sik dunn verfiert! Dunn het hei ümmertau Afbitt daan, bet em dat vergäben wier, oever sien Lüüd het hei nich wedder slagen.</isebel:content>
+    <isebel:content xml:lang="deu">Ein Gutsbesitzer in der Wittenburger Gegend, wie er geheißen hat und von welchem Gut er war, weiß ich nicht mehr, hat seine Leute immer so schlecht behandelt. Wenn sie nicht zu seiner Zufriedenheit gearbeitet haben, hat er sie mittags in eine Stube gerufen, einen nach dem anderen. Da haben sie sich ausziehen müssen, und dann hat er sie mit der Hundepeitsche furchtbar geschlagen. Hiervon hört der Großherzog Friedrich Franz I. Er zieht sich Tagelöhnerkleider über seine Montour und vermietet sich als Knecht bei dem Gutsherrn. Am nächsten Vormittag muß er pflügen. Mit Absicht machte er Haufen und Löcher und ließ den Herren schimpfen so viel er wollte. Mittags mußte er dann mit ins Prügelzimmer. Als er sich ausziehen sollte, riß er sein Zeug auf, daß die Orden zu sehen waren. Oh, wie ist der Herr da erschrocken. Da hat er immerzu Abbitte getan, bis ihm vergeben war, aber seine Leute hat er nicht wieder geschlagen.</isebel:content>
+    <isebel:content xml:lang="eng">A squire from the area around Wittenburg – I do not know any more, how he was called and from which manor he was – ill-treated his people permanently. If they did not work to his entire satisfaction, then he called them at lunchtime in his room, one by one. Subsequently, they had to doff their clothes and he whipped them with a whip for dogs. The Grand Duke Friedrich Franz I. heard that. He slipped into clothes from daytallers and chartered himself as cruel on the squire’s manor. On the next morning, he had to furrow. Deliberately he made lumps and holes and let the squire rant as much as he liked. At lunchtime, he had to go into the room for beating. When he should doff his clothes, he lacerated his costume with the result that the medals were below to see. Oh, how frightened the squire was! He apologized incessantly until he was forgiven. In addition, he did not beat his people any more.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100003107">
+      <dc:title>Wittenburger Gegend</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.51208</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.07170</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110005229">
+      <isebel:name>Karl Puls</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>contributor</isebel:role>
+      <isebel:role>scholar</isebel:role>
+      <isebel:profession>Landwirt</isebel:profession>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-001-053" type="controlled vocabulary" provenance="WossiDiA-Index">Edelleute</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-606" type="controlled vocabulary" provenance="WossiDiA-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-046-142" type="controlled vocabulary" provenance="WossiDiA-Index">Hungerpeitsche</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B609-001-024-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab5931/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

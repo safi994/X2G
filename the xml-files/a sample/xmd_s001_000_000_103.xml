@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-103" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-103</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-103</isebel:purl>
+  <dc:title>[103] Strafe für den Leichenfledderer</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">⸢Enen⸣ Eddelmann up en Goot (Fahrenhaupt oder Guthendorf is dat wäst, up een von de Göder, de inparrt sünd in Marlow) is ʼn Katenmann storben. De Fru will em ornlich beierdigen laten. Oever de Gutsbesitzer seggt, dat wier nich nödig. De Fru verköft heimlich ehr Koh. De Eddelmann het ümmer alles nasnückert bi sien Lüüd. De Fru leggt dat Geld dennʼ Doden unnern Kopp un seggt: „So, Vadding, lat di dat nich nähmen, bi di isʼt sicher!“ Se seggt to ehr Kind, se sall ʼt nich seggen, wo dat Geld is. Nu kümmt de Eddelmann un fraagt dat Kind. „Vadding unnern Topp!“ seggt dat Kind. He langt hen, dor fött em de Dood an de Hand, dat tweitemal anʼn Ellbagen, dat drüddemal an de Schuller. De Eddelmann kann de Hand nich wegkriegen. De Dood ward jo nu beierdigt. Dor het de Eddelmann näben ʼt Sarg angahn müßt, he het de Hand nich loskrägen. Vierteign Daag het dat duurt. Toletzt, as de Eddelmann de Hand loskrägen het, is se swart wäst un is ok swart bläben. He het ümmer mit Handschen gahn, dat dat nich to sehn sien süll.
+
+Erzähler: Fräulein Schmidt, 65 J., Doberan, Kreis Bad Doberan; Aufzeichner: Wossidlo, 19. 9. 1929.</isebel:content>
+    <isebel:content xml:lang="deu">Einem Edelmann auf einem Gut (Fahrenhaupt oder Guthendorf ist es gewesen, auf einem der Güter, die nach Marlow eingepfarrt sind) ist ein Katenmann gestorben. Die Frau will ihn ordentlich beerdigen lassen. Aber der Gutsbesitzer sagt, das sei nicht nötig. Die Frau verkauft heimlich ihre Kuh. Der Edelmann hat immer alles nachgeschnüffelt bei seinen Leuten. Die Frau legt das Geld dem Toten unter den Kopf und sagt. „So, Vadding, laß es dir nicht wegnehmen, bei dir istʼs sicher!“ Sie sagt zu ihrem Kind, es solle nicht sagen, wo das Geld ist. Nun kommt der Edelmann und fragt das Kind. „Vadding unterm Topf!“ sagt das Kind. Er langt hin, da faßt ihn der Tote an die Hand, das zweitemal an den Ellbogen, das drittemal an die Schulter. Der Edelmann kann die Hand nicht wegziehen. Der Tote wird nun ja beerdigt. Da hat der Edelmann neben dem Sarge hergehen müssen. Er hat die Hand nicht freibekommen. Vierzehn Tage hat das gedauert. Zuletzt, als der Edelmann die Hand freibekommen hat, ist sie schwarz gewesen und ist auch schwarz geblieben. Er ist immer mit Handschuhen gegangen, damit es nicht zu sehen sein sollte.</isebel:content>
+  </isebel:contents>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-782" type="controlled vocabulary" provenance="WossiDiA-Index">Edelmann</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-832" type="controlled vocabulary" provenance="WossiDiA-Index">Toter</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-198" type="controlled vocabulary" provenance="WossiDiA-Index">Geld</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B819" type="controlled vocabulary" provenance="RW-Index">Tote</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B819" type="controlled vocabulary" provenance="RW-Index">dead</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B819-013" type="controlled vocabulary" provenance="RW-Index">Edelmann, Toter, Geld</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B819-013" type="controlled vocabulary" provenance="RW-Index">Nobleman, dead, money</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B819-013-008-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac037b/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B819-013-008-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac037a/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B819-013-008-004">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac037d/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B819-013-008-003">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac037c/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

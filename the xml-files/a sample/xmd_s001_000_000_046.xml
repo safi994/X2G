@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-046" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-046</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-046</isebel:purl>
+  <dc:title>[46] Unschuldige Kindesmörderin</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <dc:title xml:lang="eng"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">Dat het mien Mudder vertellt: To Marihn is ʼn Mäten unwoll wäst, un dor is ʼn Kind funnen, dat hebben de Swien upfräten hatt. De Dokter un de Hävamm sünd ropen, de hebben seggt, se hadd dat daan. Se is richtt worden un de Kopp is up ʼn Block nagelt. Dor het se seggt, se mücht, dat up de Flach de Herrgott ʼn Teken geev, wat keen Minsch keennen deed. Dor is ʼn Boom upslagen, dennʼ keen Minsch kennt het. De Kopp het up ʼn Block säten, het soʼn swarte Hoor hatt, un dat Bloot wier niemals weggahn. Naher is dor ʼn Gitter üm maakt. Dor hebben Früchte up säten, gääl un rot, so schön, oever wenn man de dörchsnäden het, dat Frucht, denn het dat blött.
+
+Erzähler: Tagelöhnerfrau Luther, 83 J., Brustorf, Kreis Peckatel (von ihrer Mutter); Aufzeichner: Wossidlo, 1907.</isebel:content>
+    <isebel:content xml:lang="deu">Das [Folgende] hat meine Mutter erzählt: In Marihn ist ein Mädchen krank gewesen, und da ist ein Kind gefunden worden, das haben die Schweine aufgefressen gehabt. Der Doktor und die Hebamme sind gerufen worden, die haben gesagt, sie [das Mädchen] hätte das getan. Sie ist hingerichtet und ihr Kopf auf den Block genagelt worden. Da hat sie gesagt, sie möchte, daß an dieser Stelle der Herrgott ein Zeichen gäbe, was kein Mensch kenne. Da ist ein Baum aufgewachsen, den niemand gekannt hat. Der Kopf hat auf dem Block gesessen, er hat so schwarze Haare gehabt, und das Blut ist niemals weggegangen. Später ist ein Gitter darum gemacht worden. An dem Baum haben Früchte gesessen, gelb und rot, so schön, aber wenn man sie durchgeschnitten hat, dann hat die Frucht geblutet.</isebel:content>
+    <isebel:content xml:lang="eng">My mother told me this: In Marihn was a girl unwell, and a child was found that was devoured by the pigs. The doctor and the midwife were called and they said that the girl had done this. She was executed and her head was nailed on a log. Then she said, she would like that God give a sign on this place that nobody knows. Therefore, a tree grew that nobody recognized. The head sat on the log, it had black hair and the blood never came away. Later, a grate was set around. The tree bore fruits yellow and red, very beautiful, but when they were cut the fruit were bleeding.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100020290">
+      <dc:title>Brustorf</dc:title>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+    <isebel:place id="100001808">
+      <dc:title>Marihn</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.52601</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.99725</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110004247">
+      <isebel:name>Luther</isebel:name>
+      <isebel:gender>female</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+      <isebel:profession>Tagelöhnerfrau/Witwe</isebel:profession>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-776" type="controlled vocabulary" provenance="WossiDiA-Index">Taube</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-087" type="controlled vocabulary" provenance="WossiDiA-Index">Blume</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-124" type="controlled vocabulary" provenance="WossiDiA-Index">Kopf</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-185" type="controlled vocabulary" provenance="WossiDiA-Index">Zeichen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-765" type="controlled vocabulary" provenance="WossiDiA-Index">Schwein</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-973" type="controlled vocabulary" provenance="WossiDiA-Index">Kind</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-449" type="controlled vocabulary" provenance="WossiDiA-Index">fressen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-458" type="controlled vocabulary" provenance="WossiDiA-Index">bluten</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-000" type="controlled vocabulary" provenance="WossiDiA-Index">Frucht</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-958" type="controlled vocabulary" provenance="WossiDiA-Index">Herrgott</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-007-941" type="controlled vocabulary" provenance="WossiDiA-Index">nageln</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-708" type="controlled vocabulary" provenance="WossiDiA-Index">unwohl</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-011-864" type="controlled vocabulary" provenance="WossiDiA-Index">Doktor</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-033-914" type="controlled vocabulary" provenance="WossiDiA-Index">hinrichten</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-047-448" type="controlled vocabulary" provenance="WossiDiA-Index">Frau</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Unschuldig: Taube, Torgelow etc.</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Inculpable: pidgeon, Torgelow etc.</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B608-017-060-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56de/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B608-017-060-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56dd/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

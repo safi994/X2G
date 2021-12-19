@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-102" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-102</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-102</isebel:purl>
+  <dc:title>[102] Strafe für den Leichenfledderer</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">Bi enen Gootsherrn (in Damshagen glööv ik) blift en von sien Katenlüüd doot. De Wittfru het noch ʼn bäten Geld, dor het se dennʼ Mann vor beierdigen wullt. Se leggt em dat Geld unnern Kopp un geiht na de Stadt toʼn Inköpen. Dor seggt se to ehren dodigen Mann: „So Vadder, lat di dat Geld ok nich wegnähmen!“ As se weg is, kümmt de Gootsherr — de het wüßt, dat dor noch ʼn bäten Geld wier — un will ʼt wegnähmen. (Se, de Fru, het all ahnt, dat he kamen würd un dat nähmen wull.) As he henlangt, grippt de Dood to un fött em oever de Hand. Dor ward de Preester haalt. De kann dor ⸢oever⸣ nix bi maken. Toletzt halen se dennʼ Dokter, de het dennʼ Eddelmann de Hand afsaagt. Dor grippt de Dood dennʼ Eddelmann höger up ʼn Arm, dor het de Arzt em dennʼ ganzen Arm afsaagt. Anʼn Doden het he sik nich vergräpen.
+
+Erzähler: Glaser Köster, ca. 75 J., Grevesmühlen, Kreis Grevesmühlen; Aufzeichner: Wossidlo, 28. 6. 1928.</isebel:content>
+    <isebel:content xml:lang="deu">Einem Gutsherrn (in Damshagen, glaube ich) stirbt einer seiner Tagelöhner. Die Witwe hat noch ein wenig Geld behalten, dafür wollte sie den Mann beerdigen lassen. Sie legt ihm das Geld untern Kopf und geht zur Stadt um einzukaufen. Vorher sagt sie zu ihrem toten Mann: „So, Vater, laß dir das Geld auch nicht wegnehmen!“ Als sie weg ist, kommt der Gutsherr — der hat gewußt, daß da noch etwas Geld war — und will es wegnehmen. (Sie, die Frau hat schon geahnt, daß er kommen würde und es wegnehmen wollte.) Als er hinlangt, greift der Tote zu und faßt ihm über die Hand. Da wird der Pfarrer geholt. Der kann aber nichts dabei machen. Zuletzt holen sie den Doktor, der hat dem Edelmann die Hand abgesägt. Da greift der Tote dem Edelmann höher auf den Arm hinauf, da hat der Arzt ihm den ganzen Arm abgesägt. An dem Toten hat er sich nicht vergriffen.</isebel:content>
+  </isebel:contents>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-782" type="controlled vocabulary" provenance="WossiDiA-Index">Edelmann</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-832" type="controlled vocabulary" provenance="WossiDiA-Index">Toter</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-198" type="controlled vocabulary" provenance="WossiDiA-Index">Geld</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B819" type="controlled vocabulary" provenance="RW-Index">Tote</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B819" type="controlled vocabulary" provenance="RW-Index">dead</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B819-013" type="controlled vocabulary" provenance="RW-Index">Edelmann, Toter, Geld</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B819-013" type="controlled vocabulary" provenance="RW-Index">Nobleman, dead, money</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B819-013-007-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac0377/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B819-013-007-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac0376/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B819-013-007-004">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac0379/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B819-013-007-003">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac0378/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

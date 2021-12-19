@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-099" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-099</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-099</isebel:purl>
+  <dc:title>[99] Tote: Wiederkehr / Totenhemd</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">Twei Arbeitsmannsfrugens hebben ümmer tohoop spunnen. De een starvt un het ehr Recht nich krägen. Dor kümmt se eens anʼt Finster. De anner spinnt so flietig — de Mann is nich in wäst — un röppt: „Roh, roh, roh, Naversch, kriggst doch man ʼn Hemd mit een Moh!“ Nahst kümmt de anner Mann in, dor fröggt de Fru em, ob he sien Fru man een Maug mitgäben harr. Ja, dat harr he daan. Dor hebben se enen Arm tosnäden, un dennʼ up dennʼ Graffhügel henleggt. Dor is se nich wedder kamen. 
+
+Erzähler: Arbeiterfrau Sass, Waren, Kreis Waren; aus der Gegend von Wismar; Aufzeichner: Wossidlo, um 1885.</isebel:content>
+    <isebel:content xml:lang="deu">Zwei Arbeiterfrauen haben immer zusammen gesponnen. Die eine stirbt und hat ihr Recht nicht bekommen. Da kommt sie einmal ans Fenster. Die andere spinnt [gerade] so fleißig — der Mann ist nicht in [der Stube] gewesen — und ruft: „Ruh, ruh, ruh, Nachbarin, kriegst doch nur ein Hemd mit einem Ärmel!“ Nachher kommt der andere Mann herein, da fragt die Frau ihn, ob er seiner Frau nur einen Ärmel mitgegeben habe. Ja, das habe er getan. Da haben sie einen Ärmel zugeschnitten und den auf den Grabhügel gelegt. Da ist sie nicht wiedergekommen.</isebel:content>
+  </isebel:contents>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-832" type="controlled vocabulary" provenance="WossiDiA-Index">Toter</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-063" type="controlled vocabulary" provenance="WossiDiA-Index">Totenhemd</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-011-413" type="controlled vocabulary" provenance="WossiDiA-Index">Wiederkehr</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B902" type="controlled vocabulary" provenance="RW-Index">Tote</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B902" type="controlled vocabulary" provenance="RW-Index">dead</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B902-011" type="controlled vocabulary" provenance="RW-Index">Wiederkehr, Totenhemd</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B902-011" type="controlled vocabulary" provenance="RW-Index">Return, burial gown</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B902-011-037-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac0a74/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B902-011-037-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac0a73/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

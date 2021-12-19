@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-047" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-047</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-047</isebel:purl>
+  <dc:title>[47] Unschuldige Kindesmörderin</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <dc:title xml:lang="eng"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">Bi Düvelsdörp-Lüdershoff an de Nehringer Scheid (Vorpommern) wier de Richtdannʼ. Twee Mätens hebben ʼn Kind geburen, dat een is doot wäst. De dat dodig Kind hatt het, het de anner ehr lävig Kind wegnahmen. Dat Mäten, de dat lävig Kind hatt het, is henrichtt. ⸢Se⸣ het bäden, dei leev Gott mücht ʼn Teken gäben. ⸢Dor⸣ is ʼn Krüüzduurn wussen, de lett sik nich verdrieben. Dor legen Steen mit Buschkäsch bewussen.
+
+Erzähler: Heiden, Ribnitz, Kreis Ribnitz-Damgarten; aus Nütschow, Kreis Ribnitz-Damgarten; Aufzeichner: Wossidlo, 14. 5. 1924.</isebel:content>
+    <isebel:content xml:lang="deu">Bei Develsdorf-Lüdershof an der Nehringer Scheide war die Richttanne. Zwei Mädchen haben Kinder geboren, das eine davon ist tot gewesen. Die das tote Kind gehabt hat, hat das lebendige Kind der anderen weggenommen. Das Mädchen, die das lebende Kind gehabt hat, ist hingerichtet worden. Sie hat gebetet, der liebe Gott möchte ein Zeichen geben. Da ist ein Kreuzdorn gewachsen, der läßt sich nicht vertreiben. Dort lagen Steine mit Strauchwerk bewachsen.</isebel:content>
+    <isebel:content xml:lang="eng">Near Develdorf-Lüdershof on the Nehringer border was the fir on which people were condemned. Two girls brought children into the world; one of them was already dead. The girl who had had the dead child took the living child from the other. The girl who had had the living child was executed. She prayed God might give a sign. Therefore, a buckthorn grew which was not to dispel. Stones vegetated with shrubbery laid there.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100010106">
+      <dc:title>Tribsees</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">54.09518</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.75723</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+    <isebel:place id="100001751">
+      <dc:title>Lüdershof</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.57712</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">13.02253</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+    <isebel:place id="100001907">
+      <dc:title>Nehringen</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.99795</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.83557</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110002601">
+      <isebel:name>Heiden</isebel:name>
+      <isebel:role>narrator</isebel:role>
+      <isebel:livingPlace id="100010106">
+        <dc:title>Tribsees</dc:title>
+        <isebel:point>
+          <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">54.09518</datacite:pointLatitude>
+          <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.75723</datacite:pointLongitude>
+        </isebel:point>
+      </isebel:livingPlace>
+      <isebel:livingPlace id="100001751">
+        <dc:title>Lüdershof</dc:title>
+        <isebel:point>
+          <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.57712</datacite:pointLatitude>
+          <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">13.02253</datacite:pointLongitude>
+        </isebel:point>
+      </isebel:livingPlace>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:events>
+    <isebel:event id="990011137">
+      <isebel:date>1924-05-14</isebel:date>
+      <isebel:role>narration</isebel:role>
+    </isebel:event>
+  </isebel:events>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-776" type="controlled vocabulary" provenance="WossiDiA-Index">Taube</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-185" type="controlled vocabulary" provenance="WossiDiA-Index">Zeichen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-973" type="controlled vocabulary" provenance="WossiDiA-Index">Kind</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-860" type="controlled vocabulary" provenance="WossiDiA-Index">gebären</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-620" type="controlled vocabulary" provenance="WossiDiA-Index">tot</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-508" type="controlled vocabulary" provenance="WossiDiA-Index">Grenzscheide</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-007-002" type="controlled vocabulary" provenance="WossiDiA-Index">Kreuzdorn</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-008-835" type="controlled vocabulary" provenance="WossiDiA-Index">Richtplatz</isebel:keyword>
+    <isebel:keyword xml:lang="nds" id="XMD-M030-000-021-813" type="controlled vocabulary" provenance="WossiDiA-Index">Buschkasch</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-033-914" type="controlled vocabulary" provenance="WossiDiA-Index">hinrichten</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-047-448" type="controlled vocabulary" provenance="WossiDiA-Index">Frau</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Unschuldig: Taube, Torgelow etc.</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Inculpable: pidgeon, Torgelow etc.</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B608-017-054-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56d7/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B608-017-054-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab5751/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

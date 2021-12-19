@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-096" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-096</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-096</isebel:purl>
+  <dc:title>[96] Der ungerechte Pastor</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">⸢Dor⸣ is ʼn Preester wäst. ⸢He⸣ het sik ʼne Fru antrugen laten. Ik wier ʼn lütten Jung, as dat vertellt würd. Nu geiht he eens spazieren mit sien Fru. He het ʼn Schatten, se nich. Dor geiht he sien Fru to Liev, se het wat verbraken, dat se kenen Schatten het. Ne, se hadd nix daan. Toletzt bekennt se, se het all ʼn Kind vorher hatt, dat het se ümbröcht. Dor seggt de Preester, soʼn Fru künn he nich bruken, un het se inʼn Stall spunnt. En oll Mann (Daglöhner) het se fodern müßt. ⸢ʼn⸣ Bund Stroh is ehr Lager wäst. ⸢ʼn⸣ holten Disch un ⸢ʼn⸣ Stohl het se hatt in ehr lütt Stuuv. Ätent het se krägen. Se grämt sik jo nu so vääl un ward krank. As se so recht krank is, klagt se dennʼ ollen Mann ehr Leed un seggt to em, he sall hengahn un bidden ehren Mann, dat de kamen ded un ehr ʼt Abendmahl geev. Donn seggt de Mann dat ok dennʼ Preister. Ne, seggt de, dat deed he nich. Dat de selig ward, glöövt he äben so wenig, as dat ut dat höltern Disch un Stohl Gras rutwassen deed, so wenig glöövt he, dat se selig warden künn. Annern Morgent, as de oll Mann henkümmt un ehr dat Äten bringen will, is se doot, un ut dennʼ Disch is Gras wussen as ʼn Foot lang, un ut dennʼ Stohl ok. Dor geiht de oll Mann hen un seggt dennʼ Preester dat. As de dat süht, nimmt he ʼn Strang, hängt he sik up. — Dat heff ik innʼ Krankenhuus in en Book lääst (Filia) Vater: Ne, ik hef ʼt verteilen hürt.
+
+Erzähler: ehem. Knecht Koss, 72 J., Ludwigslust, Kreis Ludwigslust; aus Techentin, Kreis Ludwigslust; Aufzeichner: Wossidlo ,3. 8. 1911.</isebel:content>
+    <isebel:content xml:lang="deu">Da ist ein Priester gewesen. Er hat sich eine Frau antrauen lassen. Ich war ein kleiner Junge, als das erzählt wurde. Nun geht er einmal spazieren mit seiner Frau. Er hat einen Schatten, sie nicht. Da bedrängt er seine Frau, sie hat etwas verbrochen, daß sie keinen Schatten hat. Nein, sie hätte nichts getan. Zuletzt bekennt sie, sie hat schon vorher ein Kind gehabt, das hat sie umgebracht. Da sagt der Priester, solch eine Frau könne er nicht gebrauchen, und hat sie in den Stall gesperrt. Ein alter Tagelöhner hat sie füttern müssen. Ein Bund Stroh ist ihr Lager gewesen. Einen hölzernen Tisch und einen Stuhl hat sie gehabt in ihrer kleinen Stube, zu essen hat sie bekommen. Sie grämt sich ja nun so sehr und wird krank. Als sie so recht krank ist, klagt sie dem alten Mann ihr Leid und sagt zu ihm, er soll hingehen und ihren Mann bitten, daß der käme und ihr das Abendmahl gäbe. Das sagt der Mann ja auch dem Priester. Nein, sagt der, das täte er nicht. Daß die selig wird, glaubt er ebenso wenig, als daß aus dem hölzernen Tisch und Stuhl Gras wüchse, so wenig glaube er, daß sie selig werden könne. Am nächsten Morgen, als der alte Mann hinkommt und ihr das Essen bringen will, ist sie tot, und aus dem Tisch ist Gras gewachsen, einen Fuß lang, und aus dem Stuhl auch. Da geht der alte Mann hin und sagt es dem Priester. Als der das sieht, nimmt er einen Strick, hängt er sich auf. — Das habe ich im Krankenhaus in einem Buch gelesen (Tochter). Vater: Nein, ich habe es erzählen hören.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100001755">
+      <dc:title>Ludwigslust</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.32459</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.49699</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110003583">
+      <isebel:name>Koss</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+      <isebel:profession>Knecht</isebel:profession>
+      <isebel:livingPlace id="100020211">
+        <dc:title>Techentin</dc:title>
+      </isebel:livingPlace>
+      <isebel:livingPlace id="100000790">
+        <dc:title>Glasin</dc:title>
+        <isebel:point>
+          <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.91072</datacite:pointLatitude>
+          <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.73696</datacite:pointLongitude>
+        </isebel:point>
+      </isebel:livingPlace>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-776" type="controlled vocabulary" provenance="WossiDiA-Index">Taube</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-257" type="controlled vocabulary" provenance="WossiDiA-Index">Stall</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-973" type="controlled vocabulary" provenance="WossiDiA-Index">Kind</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-572" type="controlled vocabulary" provenance="WossiDiA-Index">Priester</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-853" type="controlled vocabulary" provenance="WossiDiA-Index">Abendmahl</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-003-035" type="controlled vocabulary" provenance="WossiDiA-Index">aufhängen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-554" type="controlled vocabulary" provenance="WossiDiA-Index">grünen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-009-151" type="controlled vocabulary" provenance="WossiDiA-Index">Schatten</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-019-909" type="controlled vocabulary" provenance="WossiDiA-Index">umbringen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-021-419" type="controlled vocabulary" provenance="WossiDiA-Index">bekennen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-031-467" type="controlled vocabulary" provenance="WossiDiA-Index">Verbrechen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-047-448" type="controlled vocabulary" provenance="WossiDiA-Index">Frau</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Unschuldig: Taube, Torgelow etc.</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Inculpable: pidgeon, Torgelow etc.</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B608-017-070-004">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56f1/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B608-017-070-003">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56f0/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B608-017-070-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56ef/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B608-017-070-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56ee/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

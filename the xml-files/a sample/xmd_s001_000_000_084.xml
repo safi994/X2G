@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-084" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-084</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-084</isebel:purl>
+  <dc:title>[84] Mord</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">⸢In⸣ Katelbagen inʼn Ieskeller ⸢is ʼn⸣ Skelett funnen. ⸢De Gootsherr⸣ sall de Lüüd doothungern laten hebben.
+
+Erzähler: Frau Roggentin, 76 J., Neukloster, Kreis Wismar; aus Katelbogen, Kreis Bützow; Aufzeichner: Wossidlo, 27. 12. 1915.</isebel:content>
+    <isebel:content xml:lang="deu">In Katelbogen im Eiskeller ist ein Skelett gefunden worden. Der Gutsherr soll seine Leute haben tothungern lassen.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100001980">
+      <dc:title>Neukloster</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.86765</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.68002</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+    <isebel:place id="100001331">
+      <dc:title>Katelbogen</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.84266</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.86807</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110005511">
+      <isebel:name>Roggentin</isebel:name>
+      <isebel:gender>female</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+      <isebel:livingPlace id="100001331">
+        <dc:title>Katelbogen</dc:title>
+        <isebel:point>
+          <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.84266</datacite:pointLatitude>
+          <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.86807</datacite:pointLongitude>
+        </isebel:point>
+      </isebel:livingPlace>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-001-053" type="controlled vocabulary" provenance="WossiDiA-Index">Edelleute</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-606" type="controlled vocabulary" provenance="WossiDiA-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-977" type="controlled vocabulary" provenance="WossiDiA-Index">Leute</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-004-718" type="controlled vocabulary" provenance="WossiDiA-Index">finden</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-009-657" type="controlled vocabulary" provenance="WossiDiA-Index">Skelett</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-038-471" type="controlled vocabulary" provenance="WossiDiA-Index">verhungern</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-048-710" type="controlled vocabulary" provenance="WossiDiA-Index">Eiskeller</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B609-001-019-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab592c/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

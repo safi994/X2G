@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-030" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-030</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-030</isebel:purl>
+  <dc:title>[30] Der gefundene Schatz macht standesgemäß</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <dc:title xml:lang="eng"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">Kleekamp willen poor Daglöhner Holt stietzen. ⸢Dat⸣ is ⸢noch tiedigen⸣ Morgen. ⸢Se kamen an ʼne⸣ Kuul mit Steen ⸢vörbi⸣. Een mööt ut de Hosen. ⸢He⸣ will ⸢solangʼ⸣ sien Biel faststöten, ⸢dorbi⸣ stött ⸢he⸣ up ʼn Steen, dat gift so hollen Klang. Dor het he Geld funnen, dat is oltmoodsch wäst. He het dat verwendt un ümwesselt. Dorvon het de Herr en Stuuv bugen laten inʼt Herrenhuus.
+
+Erzähler: H. Müller, Hohen Viechein, Kreis Wismar; Aufzeichner: Wossidlo, 21. 5. 1932.</isebel:content>
+    <isebel:content xml:lang="deu">In Kleekamp wollen ein paar Tagelöhner Holz stehlen. Es ist noch sehr zeitig am Morgen. Sie kommen an einer Steingrube vorbei. Einer von ihnen muß mal in die Büsche. Er will solange sein Beil in die Erde stoßen. Dabei stößt er auf einen Stein, das gibt einen hohlen Klang. Da hat er Geld gefunden, das ist ganz altmodisch gewesen. Er hat es aber genommen und umgewechselt. Davon hat ihm der Herr im Herrenhaus eine Stube bauen lassen.</isebel:content>
+    <isebel:content xml:lang="eng">A few daytaller wanted to steal some wood. It was very early in the morning. They passed a stone pit. One of them had to go in the bushes. Whilst he wanted to thrust the axe on the ground. Thereby, he thrusted on a stone which sounded hollow. There, he found money that was vintage. However, he took it and changed it. From that profit, the squire had a room in the manor built for him.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100001174">
+      <dc:title>Hohen Viecheln</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.78404</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.51169</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:events>
+    <isebel:event id="990013673">
+      <isebel:date>1932-05-21</isebel:date>
+      <isebel:role>narration</isebel:role>
+    </isebel:event>
+  </isebel:events>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-640" type="controlled vocabulary" provenance="WossiDiA-Index">Schätze</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-004-718" type="controlled vocabulary" provenance="WossiDiA-Index">finden</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-008-000" type="controlled vocabulary" provenance="WossiDiA-Index">nehmen (untersch. Bed.)</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B802" type="controlled vocabulary" provenance="RW-Index">Schätze</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B802" type="controlled vocabulary" provenance="RW-Index">treasure</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B802-017" type="controlled vocabulary" provenance="RW-Index">Den gefundenen Schatz nimmt ein anderer</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B802-017" type="controlled vocabulary" provenance="RW-Index">The found treasure takes another</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B802-017-009-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3babc7eb/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B802-017-009-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3babc7ec/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-100" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-100</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-100</isebel:purl>
+  <dc:title>[100] Totenhemd</dc:title>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="deu">Eine sehr arbeitssame alte Spinnerin bekam, als sie plötzlich starb, ein noch unvollendetes Totenhemd mit nur einem Ärmel. Sie erschien dann den anderen spät arbeitenden Spinnerinnen mit der Warnung: "To Bett un to Rauh, wenn'n doot ist, giwt doch man 'n Hemd mit een Mau (=Aermel)." Ein daraufhin vor die Haustür gehängtes Hemd mit zwei Ärmeln wurde eines Nachts von der Toten abgeholt, die ihr einärmeliges Hemd an dessen Stelle zurückliess. 
+
+Dr. Stubbe (Glienke) 1934</isebel:content>
+  </isebel:contents>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-832" type="controlled vocabulary" provenance="WossiDiA-Index">Toter</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-696" type="controlled vocabulary" provenance="WossiDiA-Index">Hemd</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B901" type="controlled vocabulary" provenance="RW-Index">Tote</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B901" type="controlled vocabulary" provenance="RW-Index">dead</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B901-014" type="controlled vocabulary" provenance="RW-Index">Hemd etc.</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B901-014" type="controlled vocabulary" provenance="RW-Index">Skirt etc.</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B901-014-027-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac082c/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

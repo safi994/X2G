@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-020" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-020</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-020</isebel:purl>
+  <dc:title>[20] Den Schatz nimmt der Bauer</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <dc:title xml:lang="eng"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">En Buur het ʼn Mäten, de is ganz früh upstahn morgens, ⸢se⸣ het sik in de Tiet verirrt, ⸢un⸣ will Füür anböten. Dor brennt ⸢mit eens⸣ Füür buten up ʼn Hoff. Inʼn Huus kann se nix ankriegen. Dor geiht se rut un haalt sik ʼne Schüpp vull Kahlen. Wenn se dat henschüddt up ʼn Füürhierd, is ʼt ümmer wedder ut wäst. So geiht se mihrmals hen. ⸢Se⸣ vertellt de Fru dat, as de upsteiht. De seggt, se sall man wedder to Bett gahn. De Buurfru het ʼn annern Morgen dat bi de Siet bröcht. ⸢Dat wiier all Geld worden.⸣
+
+Erzähler: Frau Härder, 89 J., Klocksin, Kreis Waren (von ihrer Großmutter); Aufzeichner: Wossidlo, 5. 7. 1911.</isebel:content>
+    <isebel:content xml:lang="deu">Ein Bauer hat eine Magd, die ist morgens ganz zeitig aufgestanden, sie hat sich in der Zeit geirrt, und will Feuer anmachen. Da brennt mit einem Male Feuer draußen auf dem Hof. Im Hause will es aber nicht brennen. Da geht sie raus und holt sich eine Schaufel voll Kohlen. Sobald sie diese hinschüttet auf den Herd, ist es immer wieder aus gewesen. So geht sie mehrmals hin. Sie erzählt es der Frau, als diese aufsteht. Die sagt, sie solle nur wieder zu Bett gehen. Die Bäuerin hat das am andern Morgen beiseite geschafft. Es war alles zu Geld geworden.</isebel:content>
+    <isebel:content xml:lang="eng">A farmer had a maidservant who had gotten up very early in the morning, she had been deceived in time and wanted to make a fire. All at once, there burnt a fire outside in the yard. But indoors nothing could burn. Therefore, she went outside and took a shovelful of coals. When she poured it into the stove, the fire throughout burnt out. Therefore, she tried it serval times. She told the woman when she got up. The woman said the girl should just go to bed again. On the next morning, the farmer’s wife had salted money away because all of it had become money.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100001459">
+      <dc:title>Klocksin</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.63628</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.54058</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110002498">
+      <isebel:name>Harder</isebel:name>
+      <isebel:gender>female</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:events>
+    <isebel:event id="990011543">
+      <isebel:date>1911-07-05</isebel:date>
+      <isebel:role>narration</isebel:role>
+    </isebel:event>
+  </isebel:events>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-164" type="controlled vocabulary" provenance="WossiDiA-Index">weiblich</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-640" type="controlled vocabulary" provenance="WossiDiA-Index">Schätze</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-161" type="controlled vocabulary" provenance="WossiDiA-Index">Kohle</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-003-176" type="controlled vocabulary" provenance="WossiDiA-Index">Backofen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-200" type="controlled vocabulary" provenance="WossiDiA-Index">Geldbrennen</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B801" type="controlled vocabulary" provenance="RW-Index">Schätze</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B801" type="controlled vocabulary" provenance="RW-Index">treasure</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B801-004" type="controlled vocabulary" provenance="RW-Index">Geldbrennen: Mädchen holt Kohle von Backofen</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B801-004" type="controlled vocabulary" provenance="RW-Index">Money burning: girl takes coals from the oven</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B801-004-027-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3babc43b/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B801-004-027-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3babc43c/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

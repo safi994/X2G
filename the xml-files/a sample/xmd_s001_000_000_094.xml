@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-094" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-094</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-094</isebel:purl>
+  <dc:title>[94] Selbstmord aus Angst</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">in Sloss Grubenhagen is 'n Mäten wäst, ⸢de⸣ het sik verjungfern laten ⸢von ehrn⸣ Brüjam. Soʼn hebben jo up soʼn swart Ding in de Kirch sitten müßt, ⸢se⸣ hebben Slääg krägen in de Kirch, ⸢un⸣ de Paster kanzelt se af. De Diern het sik versööpt (um dem zu entgehen). ⸢Se⸣ is up ʼn Galgenbarg in Vollrathsruhe ⸢begraben⸣. Ehr Broder het seggt: Wenn ʼn drögen Haavduurnstock gröön würd, denn würd sien Swester selig. De Busch steht noch.
+
+Erzähler: Forstarbeiter Siebahn, Hallalit, Kreis Waren; Aufzeichner: Wossidlo, um 1898.</isebel:content>
+    <isebel:content xml:lang="deu">In Schloß Grubenhagen ist ein Mädchen gewesen, die hat sich von ihrem Bräutigam entjungfern lassen. Solche haben ja auf einem schwarzen Ding in der Kirche sitzen müssen, sie haben auch Schläge in der Kirche bekommen, und der Pastor kanzelt sie ab. Um dem zu entgehen hat sich das Mädchen ertränkt. Sie ist auf dem Galgenberg in Vollratsruhe begraben. Ihr Bruder hat gesagt: Wenn ein trockener Hagedornstock grün würde, dann würde seine Schwester selig. Der Hagedornstrauch steht noch heute.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100001081">
+      <dc:title>Hallalit</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.64961</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.45253</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+    <isebel:place id="100002948">
+      <dc:title>Vollrathsruhe</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.64461</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.49198</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+    <isebel:place id="100020162">
+      <dc:title>Grubenhagen</dc:title>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110006525">
+      <isebel:name>Siebahn</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+      <isebel:profession>Forstarbeiter</isebel:profession>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-776" type="controlled vocabulary" provenance="WossiDiA-Index">Taube</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-751" type="controlled vocabulary" provenance="WossiDiA-Index">Pastor</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-834" type="controlled vocabulary" provenance="WossiDiA-Index">Schwester</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-854" type="controlled vocabulary" provenance="WossiDiA-Index">Braut</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-882" type="controlled vocabulary" provenance="WossiDiA-Index">Kirche (Gebäude)</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-968" type="controlled vocabulary" provenance="WossiDiA-Index">Bruder</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-303" type="controlled vocabulary" provenance="WossiDiA-Index">Schläge</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-411" type="controlled vocabulary" provenance="WossiDiA-Index">Bräutigam</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-669" type="controlled vocabulary" provenance="WossiDiA-Index">Schloss (Bauwerk)</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-066" type="controlled vocabulary" provenance="WossiDiA-Index">Galgenberg</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-554" type="controlled vocabulary" provenance="WossiDiA-Index">grünen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-009-574" type="controlled vocabulary" provenance="WossiDiA-Index">selig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-003" type="controlled vocabulary" provenance="WossiDiA-Index">Stock</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-029-357" type="controlled vocabulary" provenance="WossiDiA-Index">verjungfern</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-289" type="controlled vocabulary" provenance="WossiDiA-Index">ertränken</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-038-026" type="controlled vocabulary" provenance="WossiDiA-Index">abkanzeln</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-047-448" type="controlled vocabulary" provenance="WossiDiA-Index">Frau</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Unschuldig: Taube, Torgelow etc.</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Inculpable: pidgeon, Torgelow etc.</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B608-017-052-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56d5/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B608-017-052-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56d4/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-073" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-073</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-073</isebel:purl>
+  <dc:title>[73] Mit Peitsche und Knüppel</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">De oll Graf Blücher in Fincken is haart wäst gegen de Lüüd. Up enen Steen inʼn Park sünd se oeverleggt worden. He het ʼn ollen Diener hatt, de het em bäden, ob he nich in de Kapell bi em beierdigt warden künn. „Ne“, het de Graf seggt, „aber gleich vor der Tür, daß, wenn ich rufe, du da bist!“
+
+Erzähler: Hellmann, ca. 32 J., Wredenhagen, Kreis Röbel; aus Walow, Kreis Röbel; Aufzeichner: Wossidlo, 1934.</isebel:content>
+    <isebel:content xml:lang="deu">Der alte Graf Blücher in Fincken ist hart gegen seine Leute gewesen. Sie sind über einen Stein im Park gelegt worden [zum Schlagen]. Er hat einen alten Diener gehabt, der hat ihn gebeten, ob er nicht in der Kapelle neben ihm begraben werden könne. „Nein“, hat der Graf gesagt, „aber gleich vor der Tür, daß, wenn ich rufe, du da bist!“</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100003156">
+      <dc:title>Wredenhagen</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.28960</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.51616</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+    <isebel:place id="100012618">
+      <dc:title>Finken</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.35572</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.44171</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110002624">
+      <isebel:name>Hellmann</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+      <isebel:profession>Gärtner</isebel:profession>
+      <isebel:livingPlace id="100002962">
+        <dc:title>Wahlow</dc:title>
+      </isebel:livingPlace>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:events>
+    <isebel:event id="990000073">
+      <isebel:date>1934-01-01</isebel:date>
+      <isebel:role>narration</isebel:role>
+    </isebel:event>
+  </isebel:events>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-001-053" type="controlled vocabulary" provenance="WossiDiA-Index">Edelleute</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-606" type="controlled vocabulary" provenance="WossiDiA-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-881" type="controlled vocabulary" provenance="WossiDiA-Index">Kapelle</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-642" type="controlled vocabulary" provenance="WossiDiA-Index">Tür</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-977" type="controlled vocabulary" provenance="WossiDiA-Index">Leute</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-476" type="controlled vocabulary" provenance="WossiDiA-Index">Diener</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-003-543" type="controlled vocabulary" provenance="WossiDiA-Index">bitten</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-003-580" type="controlled vocabulary" provenance="WossiDiA-Index">Blücher</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-034-918" type="controlled vocabulary" provenance="WossiDiA-Index">beerdigen</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B609-001-038-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab5949/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

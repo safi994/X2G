@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-022" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-022</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-022</isebel:purl>
+  <dc:title>[22] Den Schatz nimmt der Bauer</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <dc:title xml:lang="eng"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">⸢En⸣ Diern in Warlow het dröömt, se süll Füür anböten toʼn Backen. Se kickt utʼt Finster ⸢un⸣ süht Füür inʼn Backaben. Se geiht hen. ⸢Door steiht en⸣ Mann biʼn Backaben (der Teufel), ⸢de⸣ sleiht ehr 3 Schüffel vull in ehr Schört. (Iterum, tertium.) Nu süll se oever nich wedder kamen. Dat is ʼn Schäpel vull Geld wäst. De Buur het dat dennʼ annern Morgen funnen up ʼn Füürhierd. ⸢He⸣ het ehr nix dorvon seggt. Twee Mark het se blos krägen.</isebel:content>
+    <isebel:content xml:lang="deu">Eine Magd in Warlow hat geträumt, sie sollte Feuer anzünden zum Backen. Sie schaut aus dem Fenster und sieht Feuer im Backofen. Sie geht hin. Da steht ein Mann beim Backofen (der Teufel), der ihr drei Schaufeln voll in die Schürze schüttet (und das noch zweimal). Nun möge sie aber nicht wiederkommen. Das ist ein ganzer Scheffel Geld gewesen. Der Bauer hat es am andern Morgen auf dem Herd gefunden. Er hat ihr nichts davon gesagt. Nur zwei Mark hat sie davon bekommen.</isebel:content>
+    <isebel:content xml:lang="eng">A maidservant has dreamed in Warlow, she should light a fire for baking. She looked through the window and saw a fire in the baking oven. She went forth. There stood a man next to the backing oven (the devil) who poured her three shovelful into her pinafore (and this twice again). Now, she might not come again. It was a whole bushel gold. The farmer found it on the next morning upon the stove. He told her nothing about it. She got just two Mark*.
+
+*old German currency</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100002802">
+      <dc:title>Tessin</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">54.02629</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.46834</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110003294">
+      <isebel:name>Klaeter</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+      <isebel:profession>Arbeiter</isebel:profession>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:events>
+    <isebel:event id="990011019">
+      <isebel:date>1910-03-27</isebel:date>
+      <isebel:role>narration</isebel:role>
+    </isebel:event>
+  </isebel:events>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-640" type="controlled vocabulary" provenance="WossiDiA-Index">Schätze</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-201" type="controlled vocabulary" provenance="WossiDiA-Index">Geldfeuer</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-011-181" type="controlled vocabulary" provenance="WossiDiA-Index">Warnung</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-247" type="controlled vocabulary" provenance="WossiDiA-Index">nicht</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-031-212" type="controlled vocabulary" provenance="WossiDiA-Index">kommen</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B801" type="controlled vocabulary" provenance="RW-Index">Schätze</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B801" type="controlled vocabulary" provenance="RW-Index">treasure</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B801-005" type="controlled vocabulary" provenance="RW-Index">Geldfeuer: Warnung nicht zum dritten Mal zu kommen</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B801-005" type="controlled vocabulary" provenance="RW-Index">Money fire: warning not to come a third time</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B801-005-014-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3babc44d/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B801-005-014-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3babc44e/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-108" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-108</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-108</isebel:purl>
+  <dc:title>[108] Hexen tragen als Erkennungszeichen ihrer Hexerei den Gegenstand ihres Hexengebietes</dc:title>
+  <dc:title xml:lang="deu"/>
+  <dc:title xml:lang="eng"/>
+  <isebel:contents>
+    <isebel:content xml:lang="deu">Daß die Hexen als Erkennungszeichen ihrer Hexerei den Gegenstand ihres Hexengebietes (Sieb, Butterfaß u.s.w.) auf dem Kopfe tragen, wenn man sie in ihrer wahren Gestalt sieht, leuchtete eigentlich aus den Erzählungen mehrerer Gewährsmänner (der alte Tiede u.a) heraus, nur drückte es keiner so klar aus, wie Fr. Saß, vielleicht auch nur, als ich entsprechend fragte, weil ich diesen
+Gedanken aus anderen herausgehört hatte. Dem Erzähler selbstverständlich erscheinende Gedanken werden häufig nicht ausgedrückt. 
+(Pegel – Belsch)</isebel:content>
+    <isebel:content xml:lang="eng">From the stories of several warrantors (the old Tiede, etc.) it is actually extractable that witches wear their master’s item (a sieve, churn etc.) on their heads as a sign of their witchery if one sees them in their true form. Yet nobody expressed this as clearly as Mrs. Saß; maybe just because I asked her accordingly, since I had noticed this thought in others before. Such thoughts, which seem obvious to the speaker, often aren’t expressed. (Pegel – Belsch)</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100000190">
+      <dc:title>Belsch</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.32709</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.20505</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110004995">
+      <isebel:name>Ernst Pegel</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>contributor</isebel:role>
+      <isebel:profession>Lehrer</isebel:profession>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-124" type="controlled vocabulary" provenance="WossiDiA-Index">Kopf</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-634" type="controlled vocabulary" provenance="WossiDiA-Index">Hexe</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-639" type="controlled vocabulary" provenance="WossiDiA-Index">Sieb</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-686" type="controlled vocabulary" provenance="WossiDiA-Index">Besen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-687" type="controlled vocabulary" provenance="WossiDiA-Index">Butterfass</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-293" type="controlled vocabulary" provenance="WossiDiA-Index">Gestalt</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B620" type="controlled vocabulary" provenance="RW-Index">Hexen</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B620" type="controlled vocabulary" provenance="RW-Index">witches</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B620-005" type="controlled vocabulary" provenance="RW-Index">Was auf Kopf etc.</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B620-005" type="controlled vocabulary" provenance="RW-Index">Something on the head</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B620-005-001-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab846b/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

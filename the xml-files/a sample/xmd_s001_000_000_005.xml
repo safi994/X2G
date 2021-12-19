@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-005" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-005</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-005</isebel:purl>
+  <dc:title>[5] Edelmann wird totgeschlagen, nachdem er Mätresse misshandelt hat</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">De Eddelmann in Stellshagen het en Diern so mißhannelt, de het toletzt ʼn Stoeker nahmen un is up em ingahn. Un de Lüüd hebben em vonʼn Pierd krägen un dootslahn. Sien Mätress bespreckt de Scheid, bloß dat Water kann se jo nich bespräken. Dor is ʼn Waterlock, dor sünd vääl dörchswommen, de hebben sik flüchtt, de annern sünd faatt. — Gerichts schlag heet dat hüüt noch. As fief all richtt sünd, un de sösst ran sall, kümmt Ordre von Swerin, se süllen bloß enen richten. Dat het vääl Geld kostt.</isebel:content>
+    <isebel:content xml:lang="deu">Der Edelmann in Stellshagen hat ein Mädchen so mißhandelt, die hat zuletzt den Stock genommen und ist auf ihn eingedrungen. Und seine Leute haben ihn vom Pferde gerissen und totgeschlagen. Seine Mätresse bespricht die Scheide, nur das Wasser kann sie ja nicht besprechen. Dort ist ein Wassertümpel, da sind viele hindurchgeschwommen, die haben sich geflüchtet. Die anderen sind gefaßt worden. — Gerichtsschlag heißt es ja noch heute dort. — Als fünf schon hingerichtet sind und der sechste an die Reihe soll, kommt Befehl von Schwerin, man sollte nur einen richten. Das hat viel Geld gekostet.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100001174">
+      <dc:title>Hohen Viecheln</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.78404</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.51169</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+    <isebel:place id="100002701">
+      <dc:title>Stellshagen</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.94487</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.13973</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110002742">
+      <isebel:name>Hinrichs</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+      <isebel:profession>Pantoffelmacher</isebel:profession>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-001-053" type="controlled vocabulary" provenance="WossiDiA-Index">Edelleute</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-606" type="controlled vocabulary" provenance="WossiDiA-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-023" type="controlled vocabulary" provenance="WossiDiA-Index">Wasser</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-595" type="controlled vocabulary" provenance="WossiDiA-Index">Wasserlauf</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-782" type="controlled vocabulary" provenance="WossiDiA-Index">Edelmann</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-198" type="controlled vocabulary" provenance="WossiDiA-Index">Geld</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-526" type="controlled vocabulary" provenance="WossiDiA-Index">totschlagen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-977" type="controlled vocabulary" provenance="WossiDiA-Index">Leute</isebel:keyword>
+    <isebel:keyword xml:lang="nds" id="XMD-M030-000-002-413" type="controlled vocabulary" provenance="WossiDiA-Index">Dirn</isebel:keyword>
+    <isebel:keyword xml:lang="nds" id="XMD-M030-000-018-226" type="controlled vocabulary" provenance="WossiDiA-Index">Scheid'</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-025-606" type="controlled vocabulary" provenance="WossiDiA-Index">Mätress</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-038-232" type="controlled vocabulary" provenance="WossiDiA-Index">misshandeln</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-040-933" type="controlled vocabulary" provenance="WossiDiA-Index">besprechen</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B609-001-012-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab5921/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B609-001-012-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab5920/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

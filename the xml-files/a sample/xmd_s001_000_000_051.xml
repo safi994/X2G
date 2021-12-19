@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-051" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-051</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-051</isebel:purl>
+  <dc:title>[51] Unschuldig gerichtet</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <dc:title xml:lang="eng"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">Dat hebben mi twei oll Frugens vertellt: Up ʼn Jestenbarg (inʼn Schorssower Feld) sall een richtt sin. ⸢Dor⸣ is ʼn Stock henstäken, de is utgröönt, toʼn Teiken, dat he mit unrecht richtt is. ⸢De Stell⸣ ward noch nich beackert un gor nix.
+
+Erzähler: Kuhhirte X, Schorssow, Kreis Teterow (von zwei alten Frauen); Aufzeichner: Wossidlo.</isebel:content>
+    <isebel:content xml:lang="deu">Das haben mir zwei alte Frauen erzählt: Auf dem Jestenberg (im Schorssower Feld) soll einer hingerichtet worden sein. Dort ist ein Stock [in die Erde] gesteckt worden, der ist ausgeschlagen zum Zeichen, daß er mit unrecht hingerichtet worden ist. Die Stelle wird noch heute nicht beackert und bearbeitet.</isebel:content>
+    <isebel:content xml:lang="eng">Two old women told me this: On the Jesterberg (in Schorssower field) somebody had been executed. A stick was planted in the ground, which came into leaf as a token that he has been executed wrongly.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100002570">
+      <dc:title>Schorssow</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.68183</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.56725</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+    <isebel:place id="100002570">
+      <dc:title>Schorssow</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.68183</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.56725</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-776" type="controlled vocabulary" provenance="WossiDiA-Index">Taube</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-185" type="controlled vocabulary" provenance="WossiDiA-Index">Zeichen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-554" type="controlled vocabulary" provenance="WossiDiA-Index">grünen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-006-029" type="controlled vocabulary" provenance="WossiDiA-Index">Hingerichteter</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-003" type="controlled vocabulary" provenance="WossiDiA-Index">Stock</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-247" type="controlled vocabulary" provenance="WossiDiA-Index">nicht</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-038-022" type="controlled vocabulary" provenance="WossiDiA-Index">beackern</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Unschuldig: Taube, Torgelow etc.</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Inculpable: pidgeon, Torgelow etc.</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B608-017-051-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56d3/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

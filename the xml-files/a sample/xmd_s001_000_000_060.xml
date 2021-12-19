@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-060" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-060</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-060</isebel:purl>
+  <dc:title>[60] Das Urteil schändet</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">In ⸢de⸣ Hahnschen Göder is dat wäst, Hohnert het mi dat vertellt: Dor sünd twei Swestern wäst, un de ein het ehr Kind ümbröcht. Se drapen oever de Unschuldig; de will oever henrichtt warden, se is dor einmal to verurdeelt, se will ok starben (sie!). Dor ward mit ehr rümführt in alle Göder, se sall jeden Adschüüß seggen, dat se up anner Gedanken kümmt. Oever ne, se will starben. As se nu köppt warden sall, seggt se: „Ik wull woll, dat uns Herrgott ʼn Teiken geev, un dat mien Bloot so langʼ ut de Ierd rutkamen deed, bet (oblitus est)“. Dor het de Graf fuurtsen acht Spann Ierd führen laten un drei Daag führen laten up dennʼ Kopp. Dennʼ drüdden Dag het dat Bloot noch soʼn bäten rutbulgt baben. Strömt het dat nich mihr.
+
+Erzähler: Arbeiter Sass, Waren, Kreis Waren; aus der Gegend von Wismar; Aufzeichner: Wossidlo, um 1885.</isebel:content>
+    <isebel:content xml:lang="deu">Das folgende hat sich auf den Hahnschen Gütern zugetragen, mir hat es Hohnert erzählt. Da waren einmal zwei Schwestern, und die eine davon hat ihr Kind umgebracht. Sie treffen aber die Unschuldige; die will aber hingerichtet werden, sie ist einmal dazu verurteilt, sie will nun auch sterben (!). Da fährt man mit ihr auf allen Gütern umher, sie soll jedem Adieu sagen, damit sie auf andere Gedanken kommt. Aber nein, sie will sterben. Als sie nun enthauptet werden soll, sagt sie: „Ich wollte wohl, daß unser Herrgott ein Zeichen gäbe, und daß mein Blut so lange aus der Erde herauskäme, bis (hat Erzähler vergessen). Da hat der Graf sofort acht Wagen Erde anfahren lassen auf den Kopf, und das drei Tage lang. Am dritten Tag ist das Blut noch ein bißchen oben herausgesickert. Geströmt ist es nicht mehr.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100002988">
+      <dc:title>Waren</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.51434</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">12.68948</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110009249">
+      <isebel:name>? Hohnert</isebel:name>
+      <isebel:role>narrator</isebel:role>
+    </isebel:person>
+    <isebel:person id="110005733">
+      <isebel:name>Sass</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+      <isebel:profession>Arbeiter</isebel:profession>
+      <isebel:livingPlace id="100001472">
+        <dc:title>Klüssendorf</dc:title>
+        <isebel:point>
+          <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.85210</datacite:pointLatitude>
+          <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.40418</datacite:pointLongitude>
+        </isebel:point>
+      </isebel:livingPlace>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-776" type="controlled vocabulary" provenance="WossiDiA-Index">Taube</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-834" type="controlled vocabulary" provenance="WossiDiA-Index">Schwester</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-973" type="controlled vocabulary" provenance="WossiDiA-Index">Kind</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-003-588" type="controlled vocabulary" provenance="WossiDiA-Index">Blut</isebel:keyword>
+    <isebel:keyword xml:lang="nds" id="XMD-M030-000-004-133" type="controlled vocabulary" provenance="WossiDiA-Index">drapen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-019-909" type="controlled vocabulary" provenance="WossiDiA-Index">umbringen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-020-900" type="controlled vocabulary" provenance="WossiDiA-Index">adschüs</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-033-914" type="controlled vocabulary" provenance="WossiDiA-Index">hinrichten</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-037-872" type="controlled vocabulary" provenance="WossiDiA-Index">köpfen</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Unschuldig: Taube, Torgelow etc.</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Inculpable: pidgeon, Torgelow etc.</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B608-017-030-003">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56ae/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B608-017-030-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56ad/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B608-017-030-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56ac/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-072" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-072</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-072</isebel:purl>
+  <dc:title>[72] Mit Peitsche und Knüppel</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">In ʼn Leppiner Herrenhuus süll ʼt nich richtig sien (= Plötz). De oll Herr sall dull herrscht hebben. He is hart wäst gegen de Lüüd. He het inʼn Kirchenstieg begraben sien wullt, dat he de Frugenslüüd unner de Röck kieken künn, wenn de to Kirch güngen. Johann-Korl ⸢het he heten⸣. De Knechts het he eens ut ʼn Kroog ruthalt mit de Swääp, säden se ümmer, as se sünndags dor säten hebben. Dorbi is he dennʼ Tritt daalfollen biʼt Gasthuus un fuurts doot wäst. Dor hebben se em ʼne Kuul in ʼn Kirchenstieg graavt. Dor is noch ʼn groten Steen, dor steiht dat all up, sein Naam un so.
+
+Erzähler: Krüger, Altstrelitz, Kreis Neustrelitz; aus Leppin, Kreis Neustrelitz; Aufzeichner: Wossidlo, 18. 12. 1910.</isebel:content>
+    <isebel:content xml:lang="deu">Im Leppiner Herrenhaus sollte es [früher] nicht ganz richtig sein. Der alte Herr soll hart regiert haben. Er ist hart gegen seine Leute gewesen. Er hat im Kirchensteig begraben sein wollen, damit er den Frauen unter die Röcke sehen könnte, wenn sie zur Kirche gingen. Johann-Karl hat er geheißen. Die Knechte hat er einmal aus dem Kruge mit der Peitsche geholt, so erzählte man, als sie sonntags dort gesessen haben. Dabei ist er die Treppe beim Gasthaus hinuntergefallen und sofort tot gewesen. Da hat man ihm eine Kuhle im Kirchensteig gegraben. Da ist noch heute ein großer Stein, darauf steht alles, sein Name usw.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100002732">
+      <dc:title>Altstrelitz</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.33184</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">13.09643</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+    <isebel:place id="100001665">
+      <dc:title>Leppin</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.30932</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.89588</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110003753">
+      <isebel:name>Krüger</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+      <isebel:livingPlace id="100020157">
+        <dc:title>Leppin</dc:title>
+      </isebel:livingPlace>
+    </isebel:person>
+    <isebel:person id="110009841">
+      <isebel:name>Figur i.d. Sage Johann Koort</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>actor</isebel:role>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:events>
+    <isebel:event id="990010733">
+      <isebel:date>1910-12-18</isebel:date>
+      <isebel:role>narration</isebel:role>
+    </isebel:event>
+  </isebel:events>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-001-053" type="controlled vocabulary" provenance="WossiDiA-Index">Edelleute</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-606" type="controlled vocabulary" provenance="WossiDiA-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-151" type="controlled vocabulary" provenance="WossiDiA-Index">Tod</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-083" type="controlled vocabulary" provenance="WossiDiA-Index">Peitsche</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-453" type="controlled vocabulary" provenance="WossiDiA-Index">begraben</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-642" type="controlled vocabulary" provenance="WossiDiA-Index">jagen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-008-884" type="controlled vocabulary" provenance="WossiDiA-Index">Rock</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-019-758" type="controlled vocabulary" provenance="WossiDiA-Index">Tritt</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-041-367" type="controlled vocabulary" provenance="WossiDiA-Index">Kirchensteig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-047-448" type="controlled vocabulary" provenance="WossiDiA-Index">Frau</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B609-001-072-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab5988/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

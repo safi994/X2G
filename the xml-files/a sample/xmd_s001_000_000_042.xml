@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-042" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-042</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-042</isebel:purl>
+  <dc:title>[42] Unschuldig verbrannt</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <dc:title xml:lang="eng"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">To Schimm wier in ollen Tieden ʼn bösen Herrn, de alle Frugenslüüdʼ, de em as Hexen betekent würrn, eenfach verbrennen leet. En Fru hadd ʼne Dochter; se ärgerte sik oever, dat en jung Mäten bian bäter utseeg as ehr egen. Dunn güng se to ʼn Herrn un sääd, dat dat anner jung Mäten ʼne Hex wier. He leet gliek ʼn Faden Holt henführen; inʼe Midd wier ʼn ganz dicken Ekenstamm, dor würr dat Mäten an fastbunnen un dunn würr dat anstäken. In ehr Dodesangst reep se noch ganz luud: „So unschullig as ik hier staarv, so gääv de leev Gott, dat ut dissen Boomstamm en grönenTwieg rutwaßt!“ — As de Herr annern Daags to Fellen reed un an de Stääd vörbikeem, wo dat unschullig Mäten verbrennt wier, seeg he, dat ut dennʼ kahlen Ekenstamm en groten grönen Ast rutwussen wier. He reet em af. Anʼn annern Morgen wier de Ast noch mal so groot rutwussen, un de Herr reet em wedder af. Dennʼ drüdden Morgen oever wier dor wedder ʼn Ast, de noch grötter wier as vorher. Ditmal leet de Herr em sitten un reed to Fellen.
+
+Erzähler: Arbeiter X, Wismar, Kreis Wismar; Aufzeichner: Schriftsetzer Karl Tiedt, Wismar, Kreis Wismar (Beiträger 1895 — 1906).</isebel:content>
+    <isebel:content xml:lang="deu">Zu Schimm war in alten Zeiten ein böser Herr, der alle Frauen, die ihm als Hexen bezeichnet wurden, einfach verbrennen ließ. Eine Frau hatte eine Tochter; sie ärgerte sich aber, daß ein junges Mädchen nebenan besser aussah als ihr eigenes. Da ging sie zum Herrn und sagte, daß das andere junge Mädchen eine Hexe wäre. Er ließ gleich einen Faden* Holz anfahren; in der Mitte war ein ganz dicker Eichenstamm, daran wurde das Mädchen festgebunden und darauf wurde das ganze angesteckt. In ihrer Todesangst rief sie noch ganz laut: „So wahr ich hier unschuldig sterbe, so gebe der liebe Gott, daß aus diesem Baumstamm ein grüner Zweig wächst!“ Als der Herr andern Tags zu Felde ritt und an der Stelle vorbeikam, wo das unschuldige Mädchen verbrannt war, sah er, daß aus dem kahlen Eichenstamm ein großer grüner Ast gewachsen war. Er riß ihn ab. Am nächsten Morgen war der Ast noch einmal so groß herausgewachsen, und der Herr riß ihn wieder ab. Am dritten Morgen aber war da wieder ein Ast, der noch größer war als vorher. Diesmal ließ der Herr ihn daran sitzen und ritt aufs Feld.
+
+* Faden ist ein altes Maß für Holz</isebel:content>
+    <isebel:content xml:lang="eng">In the days of yore there was a vicious squire in Schimm who had every woman easily burnt when she was called him a witch. A woman had a daughter but she got annoyed at a young girl who lived next door because she looked better than the daughter did. Therefore, the woman went to the squire and said that the other young girl was a witch. Immediately he had a Faden* timber approached, in the middle was a very big oak log on which the girl was tied up. Thereupon the whole was set on fire. When she feared for her life, she shouted: "As true as Iʼm dying here innocently god grant that a green bough grow back out of the trunk." On the next morning, the squire rode over the field, and he passed the place where the innocent girl was burnt to death. He saw that a big green bough had grown out of the bald oak log, and he ripped it off. The other morning the bough was grown out again as big as the day before, and the squire ripped it off once again. On the third morning, there was once more a bough on the trunk and it was bigger than the days before. This time the squire left it alone and rode further.
+
+* Faden was a measure for timber trade.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100002525">
+      <dc:title>Schimm</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.82515</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.57169</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+    <isebel:place id="100000178">
+      <dc:title>Beidendorf</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.82876</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">11.38835</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110008548">
+      <isebel:name>? #Tiedt</isebel:name>
+      <isebel:role>narrator</isebel:role>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-776" type="controlled vocabulary" provenance="WossiDiA-Index">Taube</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-783" type="controlled vocabulary" provenance="WossiDiA-Index">Herr</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-785" type="controlled vocabulary" provenance="WossiDiA-Index">Knecht</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-791" type="controlled vocabulary" provenance="WossiDiA-Index">schlagen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-634" type="controlled vocabulary" provenance="WossiDiA-Index">Hexe</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-504" type="controlled vocabulary" provenance="WossiDiA-Index">Grenze</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-554" type="controlled vocabulary" provenance="WossiDiA-Index">grünen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-009-460" type="controlled vocabulary" provenance="WossiDiA-Index">Schweden</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-675" type="controlled vocabulary" provenance="WossiDiA-Index">unschuldig</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-010-804" type="controlled vocabulary" provenance="WossiDiA-Index">verbrennen</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Unschuldig: Taube, Torgelow etc.</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B608-017" type="controlled vocabulary" provenance="RW-Index">Inculpable: pidgeon, Torgelow etc.</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B608-017-075-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56f7/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B608-017-075-005">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56fb/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B608-017-075-004">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56fa/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B608-017-075-003">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56f9/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B608-017-075-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab56f8/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

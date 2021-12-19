@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-071" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-071</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-071</isebel:purl>
+  <dc:title>[71] Mit Peitsche und Knüppel</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">Jürns in Teschendörp het de Frugens de Schöört hochnahmen un mit de Pietsch slahn. En Fru het ʼn Bessenstähl praat krägen, dor is he utknäpen. (De Scheperknecht is sien Bruut wäst.) Kinner soelen se an ʼn Disch binnen, het he seggt. En Deenstmäten sall ʼn Brot nahmen hebben, dat Brot het he ehr üm ʼn Hals binnen laten un se mit Musik rupblasen laten. ⸢Dennʼ⸣ Staathöller het he so verängstt hatt, de het sik vonʼt Läben bröcht. Dat Läben hebben em de annern Herrn reddt, de hebben dat noch wedder daaltüüscht, oever wieken het he müßt, bläben is he nich.
+
+Erzähler: Toll, ca. 80 J., Neubrandenburg, Kreis Neubrandenburg; aus Loitz, Kreis Neubrandenburg; Aufzeichner: Wossidlo, 15.8. 1928.</isebel:content>
+    <isebel:content xml:lang="deu">Jürns in Teschendorf hat den Frauen die Schürze hochgenommen und sie mit der Peitsche geschlagen. Eine Frau hat den Besenstiel genommen, da ist er ausgekniffen. (Der Schäferknecht ist seine Braut gewesen.) Die Kinder soll man an den Tisch binden, hat er gesagt. Ein Dienstmädchen soll ein Brot gestohlen haben, das Brot hat er ihr um den Hals binden lassen und sie mit Musik rauf blasen lassen [auf den Pranger?]. Den Statthalter hat er so verängstigt gehabt, der hat sich das Leben genommen. — Das Leben haben ihm [dem Gutsherrn] die andern Herren [seine Standesgenossen] gerettet, die haben den Prozeß gegen ihn niedergeschlagen, aber weichen hat er müssen, geblieben ist er nicht.</isebel:content>
+  </isebel:contents>
+  <isebel:places>
+    <isebel:place id="100001940">
+      <dc:title>Neubrandenburg</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.55740</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">13.26031</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>narration</isebel:role>
+    </isebel:place>
+    <isebel:place id="100002792">
+      <dc:title>Teschendorf</dc:title>
+      <isebel:point>
+        <datacite:pointLatitude xmlns:datacite="http://datacite.org/schema/kernel-4">53.45712</datacite:pointLatitude>
+        <datacite:pointLongitude xmlns:datacite="http://datacite.org/schema/kernel-4">13.35921</datacite:pointLongitude>
+      </isebel:point>
+      <isebel:role>action</isebel:role>
+    </isebel:place>
+  </isebel:places>
+  <isebel:persons>
+    <isebel:person id="110007003">
+      <isebel:name>Toll</isebel:name>
+      <isebel:gender>male</isebel:gender>
+      <isebel:role>narrator</isebel:role>
+      <isebel:profession>Tagelöhner</isebel:profession>
+    </isebel:person>
+  </isebel:persons>
+  <isebel:events>
+    <isebel:event id="990010914">
+      <isebel:date>1928-08-15</isebel:date>
+      <isebel:role>narration</isebel:role>
+    </isebel:event>
+  </isebel:events>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-001-053" type="controlled vocabulary" provenance="WossiDiA-Index">Edelleute</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-005-606" type="controlled vocabulary" provenance="WossiDiA-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-625" type="controlled vocabulary" provenance="WossiDiA-Index">Frevelsage</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-791" type="controlled vocabulary" provenance="WossiDiA-Index">schlagen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-346" type="controlled vocabulary" provenance="WossiDiA-Index">Brot</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-083" type="controlled vocabulary" provenance="WossiDiA-Index">Peitsche</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-002-509" type="controlled vocabulary" provenance="WossiDiA-Index">Tisch</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-009-425" type="controlled vocabulary" provenance="WossiDiA-Index">Schürze</isebel:keyword>
+    <isebel:keyword xml:lang="nds" id="XMD-M030-000-014-101" type="controlled vocabulary" provenance="WossiDiA-Index">Fru</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-030-875" type="controlled vocabulary" provenance="WossiDiA-Index">Dienstmädchen</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-031-484" type="controlled vocabulary" provenance="WossiDiA-Index">Besenstiel</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-037-537" type="controlled vocabulary" provenance="WossiDiA-Index">ängstigen</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">Frevel</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609" type="controlled vocabulary" provenance="RW-Index">sacrilege</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B609-001" type="controlled vocabulary" provenance="RW-Index">Haberlandt</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B609-001-036-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab5947/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B609-001-036-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bab5946/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>

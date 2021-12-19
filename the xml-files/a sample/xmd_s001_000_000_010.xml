@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?><isebel:story xmlns:isebel="http://www.isebel.eu/ns/isebel" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xml:id="xmd-s001-000-000-010" xml:lang="deu">
+  <dc:identifier>de.wossidia.xmd-s001-000-000-010</dc:identifier>
+  <isebel:purl>https://apps.wossidia.de/webapp/run/node/XMD-S001-000-000-010</isebel:purl>
+  <dc:title>[10] Die geldgierige Herrin</dc:title>
+  <dc:title xml:lang="nds"/>
+  <dc:title xml:lang="deu"/>
+  <isebel:contents>
+    <isebel:content xml:lang="nds">In Groot Gievitz is ʼn Pachtscheper wäst. De Eddelmann ⸢is⸣ dootbläben. ⸢De Eddel⸣fru ⸢verlangt de Pacht to ʼn tweiten Mal. De Scheper⸣ geiht so kurlos up ʼn Feld ⸢un⸣ ett sien bäten Brot bi de Schaap. ⸢Donn⸣ föllt en Krömel daal. He sett ʼn Hoot ⸢dor⸣ up, ⸢he⸣ will em wedder hebben. Dor liggt dor ʼn heil Brot unner, un de Krömel baben up, ⸢un en⸣ lütt Mann ⸢steiht dornäben. De⸣ fröggt em, worüm ⸢he⸣ so trurig ⸢is. Donn⸣ vertellt ⸢he⸣ em dat. ⸢De lütt Mann fröggt,⸣ ob he ⸢dennʼ⸣ Eddelmann noch mal spräken wull. ⸢Ja! He bringt em na de Höll un seggt vörher, de Scheper⸣ sall sik dennʼ Ring, dennʼ de Eddelmann up ʼn Finger ⸢het,⸣ as Pfand gäben laten. ⸢As⸣ se rin na de Höll ⸢kamen, fröggt de Eddelmann dennʼ Scheper:⸣ „Wat wisst du?“ ⸢He seggt dat. Ja, de⸣ Papieren steeken achterʼn Speigel. ⸢De Scheper lett sik dennʼ⸣ Ring up ʼe Rockslipp smieten. ⸢He sall de Eddelfru seggen,⸣ se süll arm Lüüd good doon, un ehr Stohl wier farig bet up enen Been. ⸢Dennʼ⸣ Ring het he mitnamen. ⸢De⸣ Fru het ⸢de⸣ Quittung ⸢ok⸣ funnen. ⸢Se⸣ het noch langʼ läävt un arm Lüüd good daan.
+
+Erzähler: Beeck, Waren, Kreis Waren; Aufzeichner: Wossidlo, 14. 6. 1912.</isebel:content>
+    <isebel:content xml:lang="deu">In Groß Gievitz ist ein Pachtschäfer gewesen. Der Edelmann ist gestorben. Die Edelfrau verlangt die Pacht zum zweiten Male. Der Schäfer geht ganz verstört auf dem Felde umher und ißt sein bißchen Brot bei den Schafen. Da fällt ein Krümel zur Erde. Er setzt den Hut darauf, er will den Krümel wiederhaben. Da liegt darunter ein ganzes Brot, und der Krümel oben drauf, und ein kleiner Mann steht daneben. Der fragt ihn, warum er so traurig ist. Da erzählt er es ihm. Der kleine Mann fragt, ob er den Edelmann noch einmal sprechen wolle. Ja! Er bringt ihn nach der Hölle und sagt vorher, der Schäfer soll sich den Ring, den der Edelmann auf dem Finger hat, als Pfand geben lassen. Als sie in die Hölle kommen, fragt der Edelmann den Schäfer: „Was willst du?“ Er sagt es. Ja, die Papiere steckten hinterm Spiegel. Der Schäfer läßt sich den Ring in den Rockschoß werfen. Er soll der Edelfrau sagen, sie solle armen Leuten Gutes tun und ihr Stuhl [in der Hölle] sei fertig bis auf ein Bein. Den Ring hat er mitgenommen. Die Frau hat die Quittung auch wirklich gefunden. Sie hat noch lange gelebt und armen Leuten Gutes getan.</isebel:content>
+  </isebel:contents>
+  <isebel:keywords>
+    <isebel:keyword id="XMD-M030-000-000-124" type="controlled vocabulary" provenance="WossiDiA-Index">Kopf</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-000-832" type="controlled vocabulary" provenance="WossiDiA-Index">Toter</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-001-198" type="controlled vocabulary" provenance="WossiDiA-Index">Geld</isebel:keyword>
+    <isebel:keyword id="XMD-M030-000-008-656" type="controlled vocabulary" provenance="WossiDiA-Index">Quittung</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B819" type="controlled vocabulary" provenance="RW-Index">Tote</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B819" type="controlled vocabulary" provenance="RW-Index">dead</isebel:keyword>
+    <isebel:keyword xml:lang="deu" id="ZAW-B819-010" type="controlled vocabulary" provenance="RW-Index">Quittung, Geld unter Kopf</isebel:keyword>
+    <isebel:keyword xml:lang="eng" id="ZAW-B819-010" type="controlled vocabulary" provenance="RW-Index">Receipt, money under head</isebel:keyword>
+  </isebel:keywords>
+  <isebel:imageResources>
+    <isebel:imageResource id="ZAW-B819-010-002-001">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac0329/master</isebel:purl>
+    </isebel:imageResource>
+    <isebel:imageResource id="ZAW-B819-010-002-002">
+      <isebel:purl>https://apps.wossidia.de/digipool/3bac032a/master</isebel:purl>
+    </isebel:imageResource>
+  </isebel:imageResources>
+</isebel:story>
